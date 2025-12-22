@@ -1,0 +1,2583 @@
+{
+  "name": "Battle Under Lights | 29th Jan - 1",
+  "categories": [
+    {
+      "name": "Open Men's Singles~Gurgaon~singles",
+      "rounds": [
+        {
+          "name": "Round Robin",
+          "id": "1",
+          "pools": [
+            {
+              "poolName": "A",
+              "matches": [
+                {
+                  "name": "Round 1 Pool A - Team T089 vs Team T090",
+                  "teamId1": "T089",
+                  "teamId2": "T090",
+                  "teamId1_score": 11,
+                  "teamId2_score": 1,
+                  "winnerTeamId": "T089",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 1 Pool A - Team T089 vs Team T091",
+                  "teamId1": "T089",
+                  "teamId2": "T091",
+                  "teamId1_score": 11,
+                  "teamId2_score": 3,
+                  "winnerTeamId": "T089",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 1 Pool A - Team T089 vs Team T092",
+                  "teamId1": "T089",
+                  "teamId2": "T092",
+                  "teamId1_score": 8,
+                  "teamId2_score": 11,
+                  "winnerTeamId": "T092",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 1 Pool A - Team T089 vs Team T093",
+                  "teamId1": "T089",
+                  "teamId2": "T093",
+                  "teamId1_score": 11,
+                  "teamId2_score": 1,
+                  "winnerTeamId": "T089",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 1 Pool A - Team T090 vs Team T091",
+                  "teamId1": "T090",
+                  "teamId2": "T091",
+                  "teamId1_score": 0,
+                  "teamId2_score": 11,
+                  "winnerTeamId": "T091",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 1 Pool A - Team T090 vs Team T092",
+                  "teamId1": "T090",
+                  "teamId2": "T092",
+                  "teamId1_score": 0,
+                  "teamId2_score": 11,
+                  "winnerTeamId": "T092",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 1 Pool A - Team T090 vs Team T093",
+                  "teamId1": "T090",
+                  "teamId2": "T093",
+                  "teamId1_score": 0,
+                  "teamId2_score": 11,
+                  "winnerTeamId": "T093",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 1 Pool A - Team T091 vs Team T092",
+                  "teamId1": "T091",
+                  "teamId2": "T092",
+                  "teamId1_score": 8,
+                  "teamId2_score": 11,
+                  "winnerTeamId": "T092",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 1 Pool A - Team T091 vs Team T093",
+                  "teamId1": "T091",
+                  "teamId2": "T093",
+                  "teamId1_score": 12,
+                  "teamId2_score": 10,
+                  "winnerTeamId": "T091",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 1 Pool A - Team T092 vs Team T093",
+                  "teamId1": "T092",
+                  "teamId2": "T093",
+                  "teamId1_score": 10,
+                  "teamId2_score": 12,
+                  "winnerTeamId": "T093",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                }
+              ]
+            },
+            {
+              "poolName": "B",
+              "matches": [
+                {
+                  "name": "Round 1 Pool B - Team T094 vs Team T095",
+                  "teamId1": "T094",
+                  "teamId2": "T095",
+                  "teamId1_score": 11,
+                  "teamId2_score": 0,
+                  "winnerTeamId": "T094",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 1 Pool B - Team T094 vs Team T096",
+                  "teamId1": "T094",
+                  "teamId2": "T096",
+                  "teamId1_score": 10,
+                  "teamId2_score": 12,
+                  "winnerTeamId": "T096",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 1 Pool B - Team T094 vs Team T097",
+                  "teamId1": "T094",
+                  "teamId2": "T097",
+                  "teamId1_score": 4,
+                  "teamId2_score": 11,
+                  "winnerTeamId": "T097",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 1 Pool B - Team T094 vs Team T098",
+                  "teamId1": "T094",
+                  "teamId2": "T098",
+                  "teamId1_score": 11,
+                  "teamId2_score": 3,
+                  "winnerTeamId": "T094",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 1 Pool B - Team T095 vs Team T096",
+                  "teamId1": "T095",
+                  "teamId2": "T096",
+                  "teamId1_score": 1,
+                  "teamId2_score": 11,
+                  "winnerTeamId": "T096",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 1 Pool B - Team T095 vs Team T097",
+                  "teamId1": "T095",
+                  "teamId2": "T097",
+                  "teamId1_score": 2,
+                  "teamId2_score": 11,
+                  "winnerTeamId": "T097",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 1 Pool B - Team T095 vs Team T098",
+                  "teamId1": "T095",
+                  "teamId2": "T098",
+                  "teamId1_score": 6,
+                  "teamId2_score": 11,
+                  "winnerTeamId": "T098",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 1 Pool B - Team T096 vs Team T097",
+                  "teamId1": "T096",
+                  "teamId2": "T097",
+                  "teamId1_score": 11,
+                  "teamId2_score": 8,
+                  "winnerTeamId": "T096",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 1 Pool B - Team T096 vs Team T098",
+                  "teamId1": "T096",
+                  "teamId2": "T098",
+                  "teamId1_score": 11,
+                  "teamId2_score": 3,
+                  "winnerTeamId": "T096",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 1 Pool B - Team T097 vs Team T098",
+                  "teamId1": "T097",
+                  "teamId2": "T098",
+                  "teamId1_score": 11,
+                  "teamId2_score": 1,
+                  "winnerTeamId": "T097",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                }
+              ]
+            },
+            {
+              "poolName": "C",
+              "matches": [
+                {
+                  "name": "Round 1 Pool C - Team T099 vs Team T100",
+                  "teamId1": "T099",
+                  "teamId2": "T100",
+                  "teamId1_score": 11,
+                  "teamId2_score": 2,
+                  "winnerTeamId": "T099",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 1 Pool C - Team T099 vs Team T101",
+                  "teamId1": "T099",
+                  "teamId2": "T101",
+                  "teamId1_score": 11,
+                  "teamId2_score": 7,
+                  "winnerTeamId": "T099",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 1 Pool C - Team T099 vs Team T102",
+                  "teamId1": "T099",
+                  "teamId2": "T102",
+                  "teamId1_score": 11,
+                  "teamId2_score": 0,
+                  "winnerTeamId": "T099",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 1 Pool C - Team T100 vs Team T101",
+                  "teamId1": "T100",
+                  "teamId2": "T101",
+                  "teamId1_score": 11,
+                  "teamId2_score": 7,
+                  "winnerTeamId": "T100",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 1 Pool C - Team T100 vs Team T102",
+                  "teamId1": "T100",
+                  "teamId2": "T102",
+                  "teamId1_score": 7,
+                  "teamId2_score": 11,
+                  "winnerTeamId": "T102",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 1 Pool C - Team T101 vs Team T102",
+                  "teamId1": "T101",
+                  "teamId2": "T102",
+                  "teamId1_score": 4,
+                  "teamId2_score": 11,
+                  "winnerTeamId": "T102",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                }
+              ]
+            },
+            {
+              "poolName": "D",
+              "matches": [
+                {
+                  "name": "Round 1 Pool D - Team T103 vs Team T104",
+                  "teamId1": "T103",
+                  "teamId2": "T104",
+                  "teamId1_score": 11,
+                  "teamId2_score": 7,
+                  "winnerTeamId": "T103",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 1 Pool D - Team T103 vs Team T105",
+                  "teamId1": "T103",
+                  "teamId2": "T105",
+                  "teamId1_score": 11,
+                  "teamId2_score": 5,
+                  "winnerTeamId": "T103",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 1 Pool D - Team T103 vs Team T106",
+                  "teamId1": "T103",
+                  "teamId2": "T106",
+                  "teamId1_score": 9,
+                  "teamId2_score": 11,
+                  "winnerTeamId": "T106",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 1 Pool D - Team T104 vs Team T105",
+                  "teamId1": "T104",
+                  "teamId2": "T105",
+                  "teamId1_score": 2,
+                  "teamId2_score": 11,
+                  "winnerTeamId": "T105",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 1 Pool D - Team T104 vs Team T106",
+                  "teamId1": "T104",
+                  "teamId2": "T106",
+                  "teamId1_score": 1,
+                  "teamId2_score": 11,
+                  "winnerTeamId": "T106",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 1 Pool D - Team T105 vs Team T106",
+                  "teamId1": "T105",
+                  "teamId2": "T106",
+                  "teamId1_score": 11,
+                  "teamId2_score": 9,
+                  "winnerTeamId": "T105",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                }
+              ]
+            },
+            {
+              "poolName": "E",
+              "matches": [
+                {
+                  "name": "Round 1 Pool E - Team T107 vs Team T108",
+                  "teamId1": "T107",
+                  "teamId2": "T108",
+                  "teamId1_score": 3,
+                  "teamId2_score": 11,
+                  "winnerTeamId": "T108",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 1 Pool E - Team T107 vs Team T109",
+                  "teamId1": "T107",
+                  "teamId2": "T109",
+                  "teamId1_score": 2,
+                  "teamId2_score": 11,
+                  "winnerTeamId": "T109",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 1 Pool E - Team T107 vs Team T110",
+                  "teamId1": "T107",
+                  "teamId2": "T110",
+                  "teamId1_score": 1,
+                  "teamId2_score": 11,
+                  "winnerTeamId": "T110",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 1 Pool E - Team T108 vs Team T109",
+                  "teamId1": "T108",
+                  "teamId2": "T109",
+                  "teamId1_score": 0,
+                  "teamId2_score": 11,
+                  "winnerTeamId": "T109",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 1 Pool E - Team T108 vs Team T110",
+                  "teamId1": "T108",
+                  "teamId2": "T110",
+                  "teamId1_score": 3,
+                  "teamId2_score": 11,
+                  "winnerTeamId": "T110",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 1 Pool E - Team T109 vs Team T110",
+                  "teamId1": "T109",
+                  "teamId2": "T110",
+                  "teamId1_score": 3,
+                  "teamId2_score": 11,
+                  "winnerTeamId": "T110",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                }
+              ]
+            },
+            {
+              "poolName": "F",
+              "matches": [
+                {
+                  "name": "Round 1 Pool F - Team T111 vs Team T112",
+                  "teamId1": "T111",
+                  "teamId2": "T112",
+                  "teamId1_score": 12,
+                  "teamId2_score": 10,
+                  "winnerTeamId": "T111",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 1 Pool F - Team T111 vs Team T113",
+                  "teamId1": "T111",
+                  "teamId2": "T113",
+                  "teamId1_score": 2,
+                  "teamId2_score": 11,
+                  "winnerTeamId": "T113",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 1 Pool F - Team T111 vs Team T114",
+                  "teamId1": "T111",
+                  "teamId2": "T114",
+                  "teamId1_score": 5,
+                  "teamId2_score": 11,
+                  "winnerTeamId": "T114",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 1 Pool F - Team T112 vs Team T113",
+                  "teamId1": "T112",
+                  "teamId2": "T113",
+                  "teamId1_score": 9,
+                  "teamId2_score": 11,
+                  "winnerTeamId": "T113",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 1 Pool F - Team T112 vs Team T114",
+                  "teamId1": "T112",
+                  "teamId2": "T114",
+                  "teamId1_score": 9,
+                  "teamId2_score": 11,
+                  "winnerTeamId": "T114",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 1 Pool F - Team T113 vs Team T114",
+                  "teamId1": "T113",
+                  "teamId2": "T114",
+                  "teamId1_score": 12,
+                  "teamId2_score": 10,
+                  "winnerTeamId": "T113",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                }
+              ]
+            },
+            {
+              "poolName": "G",
+              "matches": [
+                {
+                  "name": "Round 1 Pool G - Team T115 vs Team T116",
+                  "teamId1": "T115",
+                  "teamId2": "T116",
+                  "teamId1_score": 4,
+                  "teamId2_score": 11,
+                  "winnerTeamId": "T116",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 1 Pool G - Team T115 vs Team T117",
+                  "teamId1": "T115",
+                  "teamId2": "T117",
+                  "teamId1_score": 7,
+                  "teamId2_score": 11,
+                  "winnerTeamId": "T117",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 1 Pool G - Team T115 vs Team T118",
+                  "teamId1": "T115",
+                  "teamId2": "T118",
+                  "teamId1_score": 11,
+                  "teamId2_score": 1,
+                  "winnerTeamId": "T115",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 1 Pool G - Team T116 vs Team T117",
+                  "teamId1": "T116",
+                  "teamId2": "T117",
+                  "teamId1_score": 11,
+                  "teamId2_score": 5,
+                  "winnerTeamId": "T116",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 1 Pool G - Team T116 vs Team T118",
+                  "teamId1": "T116",
+                  "teamId2": "T118",
+                  "teamId1_score": 11,
+                  "teamId2_score": 8,
+                  "winnerTeamId": "T116",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 1 Pool G - Team T117 vs Team T118",
+                  "teamId1": "T117",
+                  "teamId2": "T118",
+                  "teamId1_score": 11,
+                  "teamId2_score": 7,
+                  "winnerTeamId": "T117",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                }
+              ]
+            },
+            {
+              "poolName": "H",
+              "matches": [
+                {
+                  "name": "Round 1 Pool H - Team T119 vs Team T120",
+                  "teamId1": "T119",
+                  "teamId2": "T120",
+                  "teamId1_score": 11,
+                  "teamId2_score": 8,
+                  "winnerTeamId": "T119",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 1 Pool H - Team T119 vs Team T121",
+                  "teamId1": "T119",
+                  "teamId2": "T121",
+                  "teamId1_score": 11,
+                  "teamId2_score": 2,
+                  "winnerTeamId": "T119",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 1 Pool H - Team T119 vs Team T122",
+                  "teamId1": "T119",
+                  "teamId2": "T122",
+                  "teamId1_score": 11,
+                  "teamId2_score": 6,
+                  "winnerTeamId": "T119",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 1 Pool H - Team T120 vs Team T121",
+                  "teamId1": "T120",
+                  "teamId2": "T121",
+                  "teamId1_score": 7,
+                  "teamId2_score": 11,
+                  "winnerTeamId": "T121",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 1 Pool H - Team T120 vs Team T122",
+                  "teamId1": "T120",
+                  "teamId2": "T122",
+                  "teamId1_score": 11,
+                  "teamId2_score": 4,
+                  "winnerTeamId": "T120",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 1 Pool H - Team T121 vs Team T122",
+                  "teamId1": "T121",
+                  "teamId2": "T122",
+                  "teamId1_score": 6,
+                  "teamId2_score": 11,
+                  "winnerTeamId": "T122",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Round of 16 (New)",
+          "id": "2",
+          "pools": [
+            {
+              "poolName": "A",
+              "matches": [
+                {
+                  "name": "Round 2 - Team T089 vs Team T103",
+                  "teamId1": "T089",
+                  "teamId2": "T103",
+                  "teamId1_score": 4,
+                  "teamId2_score": 11,
+                  "winnerTeamId": "T103",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 2 - Team T092 vs Team T106",
+                  "teamId1": "T092",
+                  "teamId2": "T106",
+                  "teamId1_score": 5,
+                  "teamId2_score": 11,
+                  "winnerTeamId": "T106",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 2 - Team T096 vs Team T102",
+                  "teamId1": "T096",
+                  "teamId2": "T102",
+                  "teamId1_score": 11,
+                  "teamId2_score": 8,
+                  "winnerTeamId": "T096",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 2 - Team T110 vs Team T120",
+                  "teamId1": "T110",
+                  "teamId2": "T120",
+                  "teamId1_score": 11,
+                  "teamId2_score": 6,
+                  "winnerTeamId": "T110",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 2 - Team T113 vs Team T117",
+                  "teamId1": "T113",
+                  "teamId2": "T117",
+                  "teamId1_score": 11,
+                  "teamId2_score": 2,
+                  "winnerTeamId": "T113",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 2 - Team T097 vs Team T099",
+                  "teamId1": "T097",
+                  "teamId2": "T099",
+                  "teamId1_score": 2,
+                  "teamId2_score": 11,
+                  "winnerTeamId": "T099",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 2 - Team T109 vs Team T119",
+                  "teamId1": "T109",
+                  "teamId2": "T119",
+                  "teamId1_score": 11,
+                  "teamId2_score": 5,
+                  "winnerTeamId": "T109",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 2 - Team T114 vs Team T116",
+                  "teamId1": "T114",
+                  "teamId2": "T116",
+                  "teamId1_score": 1,
+                  "teamId2_score": 11,
+                  "winnerTeamId": "T116",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Quarter Final",
+          "id": "3",
+          "pools": [
+            {
+              "poolName": "1",
+              "matches": [
+                {
+                  "name": "Round 3 - Team T103 vs Team T096",
+                  "teamId1": "T103",
+                  "teamId2": "T096",
+                  "teamId1_score": 11,
+                  "teamId2_score": 7,
+                  "winnerTeamId": "T103",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                }
+              ]
+            },
+            {
+              "poolName": "A",
+              "matches": [
+                {
+                  "name": "Round 3 - Team T110 vs Team T113",
+                  "teamId1": "T110",
+                  "teamId2": "T113",
+                  "teamId1_score": 11,
+                  "teamId2_score": 7,
+                  "winnerTeamId": "T110",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 3 - Team T106 vs Team T099",
+                  "teamId1": "T106",
+                  "teamId2": "T099",
+                  "teamId1_score": 6,
+                  "teamId2_score": 11,
+                  "winnerTeamId": "T099",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 3 - Team T109 vs Team T116",
+                  "teamId1": "T109",
+                  "teamId2": "T116",
+                  "teamId1_score": 11,
+                  "teamId2_score": 8,
+                  "winnerTeamId": "T109",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Semi Final",
+          "id": "4",
+          "pools": [
+            {
+              "poolName": "A",
+              "matches": [
+                {
+                  "name": "Round 4 - Team T103 vs Team T110",
+                  "teamId1": "T103",
+                  "teamId2": "T110",
+                  "teamId1_score": 11,
+                  "teamId2_score": 7,
+                  "winnerTeamId": "T103",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 4 - Team T099 vs Team T109",
+                  "teamId1": "T099",
+                  "teamId2": "T109",
+                  "teamId1_score": 11,
+                  "teamId2_score": 4,
+                  "winnerTeamId": "T099",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Final",
+          "id": "5",
+          "pools": [
+            {
+              "poolName": "A",
+              "matches": [
+                {
+                  "name": "Final - Team T099 vs Team T103",
+                  "teamId1": "T099",
+                  "teamId2": "T103",
+                  "teamId1_score": 0,
+                  "teamId2_score": 15,
+                  "winnerTeamId": "T103",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Division | Round of 16",
+          "id": "6",
+          "pools": [
+            {
+              "poolName": "A",
+              "matches": [
+                {
+                  "name": "Round 6 - Team T091 vs Team T104",
+                  "teamId1": "T091",
+                  "teamId2": "T104",
+                  "teamId1_score": 11,
+                  "teamId2_score": 3,
+                  "winnerTeamId": "T091",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 6 - Team T101 vs Team T094",
+                  "teamId1": "T101",
+                  "teamId2": "T094",
+                  "teamId1_score": 0,
+                  "teamId2_score": 11,
+                  "winnerTeamId": "T094",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 6 - Team T108 vs Team T122",
+                  "teamId1": "T108",
+                  "teamId2": "T122",
+                  "teamId1_score": 0,
+                  "teamId2_score": 11,
+                  "winnerTeamId": "T122",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 6 - Team T111 vs Team T118",
+                  "teamId1": "T111",
+                  "teamId2": "T118",
+                  "teamId1_score": 7,
+                  "teamId2_score": 11,
+                  "winnerTeamId": "T118",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 6 - Team T093 vs Team T105",
+                  "teamId1": "T093",
+                  "teamId2": "T105",
+                  "teamId1_score": 3,
+                  "teamId2_score": 11,
+                  "winnerTeamId": "T105",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 6 - Team T098 vs Team T100",
+                  "teamId1": "T098",
+                  "teamId2": "T100",
+                  "teamId1_score": 0,
+                  "teamId2_score": 11,
+                  "winnerTeamId": "T100",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 6 - Team T107 vs Team T121",
+                  "teamId1": "T107",
+                  "teamId2": "T121",
+                  "teamId1_score": 0,
+                  "teamId2_score": 11,
+                  "winnerTeamId": "T121",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 6 - Team T112 vs Team T115",
+                  "teamId1": "T112",
+                  "teamId2": "T115",
+                  "teamId1_score": 0,
+                  "teamId2_score": 11,
+                  "winnerTeamId": "T115",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Division | Quarter Final",
+          "id": "7",
+          "pools": [
+            {
+              "poolName": "A",
+              "matches": [
+                {
+                  "name": "Round 7 - Team T091 vs Team T094",
+                  "teamId1": "T091",
+                  "teamId2": "T094",
+                  "teamId1_score": 11,
+                  "teamId2_score": 7,
+                  "winnerTeamId": "T091",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 7 - Team T122 vs Team T118",
+                  "teamId1": "T122",
+                  "teamId2": "T118",
+                  "teamId1_score": 11,
+                  "teamId2_score": 8,
+                  "winnerTeamId": "T122",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 7 - Team T105 vs Team T100",
+                  "teamId1": "T105",
+                  "teamId2": "T100",
+                  "teamId1_score": 7,
+                  "teamId2_score": 11,
+                  "winnerTeamId": "T100",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 7 - Team T115 vs Team T121",
+                  "teamId1": "T115",
+                  "teamId2": "T121",
+                  "teamId1_score": 11,
+                  "teamId2_score": 0,
+                  "winnerTeamId": "T115",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Division | Semi Final",
+          "id": "8",
+          "pools": [
+            {
+              "poolName": "A",
+              "matches": [
+                {
+                  "name": "Round 8 - Team T091 vs Team T122",
+                  "teamId1": "T091",
+                  "teamId2": "T122",
+                  "teamId1_score": 6,
+                  "teamId2_score": 11,
+                  "winnerTeamId": "T122",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 8 - Team T100 vs Team T115",
+                  "teamId1": "T100",
+                  "teamId2": "T115",
+                  "teamId1_score": 11,
+                  "teamId2_score": 3,
+                  "winnerTeamId": "T100",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Division | Final",
+          "id": "9",
+          "pools": [
+            {
+              "poolName": "A",
+              "matches": [
+                {
+                  "name": "Division | Final - Team T100 vs Team T122",
+                  "teamId1": "T100",
+                  "teamId2": "T122",
+                  "teamId1_score": 6,
+                  "teamId2_score": 11,
+                  "winnerTeamId": "T122",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "teams": [
+        {
+          "id": "T089",
+          "name": "Team T089",
+          "player1uuid": "3U36S",
+          "player2uuid": null
+        },
+        {
+          "id": "T090",
+          "name": "Team T090",
+          "player1uuid": "PXPRU",
+          "player2uuid": null
+        },
+        {
+          "id": "T091",
+          "name": "Team T091",
+          "player1uuid": "EA3E5",
+          "player2uuid": null
+        },
+        {
+          "id": "T092",
+          "name": "Team T092",
+          "player1uuid": "3RWH9",
+          "player2uuid": null
+        },
+        {
+          "id": "T093",
+          "name": "Team T093",
+          "player1uuid": "BKBC9",
+          "player2uuid": null
+        },
+        {
+          "id": "T094",
+          "name": "Team T094",
+          "player1uuid": "MDFGV",
+          "player2uuid": null
+        },
+        {
+          "id": "T095",
+          "name": "Team T095",
+          "player1uuid": "D0YJR",
+          "player2uuid": null
+        },
+        {
+          "id": "T096",
+          "name": "Team T096",
+          "player1uuid": "7INJB",
+          "player2uuid": null
+        },
+        {
+          "id": "T097",
+          "name": "Team T097",
+          "player1uuid": "K6TRH",
+          "player2uuid": null
+        },
+        {
+          "id": "T098",
+          "name": "Team T098",
+          "player1uuid": "VQ97R",
+          "player2uuid": null
+        },
+        {
+          "id": "T099",
+          "name": "Team T099",
+          "player1uuid": "173JJ",
+          "player2uuid": null
+        },
+        {
+          "id": "T100",
+          "name": "Team T100",
+          "player1uuid": "H955U",
+          "player2uuid": null
+        },
+        {
+          "id": "T101",
+          "name": "Team T101",
+          "player1uuid": "W2TO3",
+          "player2uuid": null
+        },
+        {
+          "id": "T102",
+          "name": "Team T102",
+          "player1uuid": "4VKDY",
+          "player2uuid": null
+        },
+        {
+          "id": "T103",
+          "name": "Team T103",
+          "player1uuid": "1HRXD",
+          "player2uuid": null
+        },
+        {
+          "id": "T104",
+          "name": "Team T104",
+          "player1uuid": "SMQ9R",
+          "player2uuid": null
+        },
+        {
+          "id": "T105",
+          "name": "Team T105",
+          "player1uuid": "9RQVE",
+          "player2uuid": null
+        },
+        {
+          "id": "T106",
+          "name": "Team T106",
+          "player1uuid": "UI746",
+          "player2uuid": null
+        },
+        {
+          "id": "T107",
+          "name": "Team T107",
+          "player1uuid": "DU0WV",
+          "player2uuid": null
+        },
+        {
+          "id": "T108",
+          "name": "Team T108",
+          "player1uuid": "4MYMU",
+          "player2uuid": null
+        },
+        {
+          "id": "T109",
+          "name": "Team T109",
+          "player1uuid": "BOIIN",
+          "player2uuid": null
+        },
+        {
+          "id": "T110",
+          "name": "Team T110",
+          "player1uuid": "X235Z",
+          "player2uuid": null
+        },
+        {
+          "id": "T111",
+          "name": "Team T111",
+          "player1uuid": "AVBX2",
+          "player2uuid": null
+        },
+        {
+          "id": "T112",
+          "name": "Team T112",
+          "player1uuid": "K5N8U",
+          "player2uuid": null
+        },
+        {
+          "id": "T113",
+          "name": "Team T113",
+          "player1uuid": "FW5UG",
+          "player2uuid": null
+        },
+        {
+          "id": "T114",
+          "name": "Team T114",
+          "player1uuid": "51KT0",
+          "player2uuid": null
+        },
+        {
+          "id": "T115",
+          "name": "Team T115",
+          "player1uuid": "YBFCD",
+          "player2uuid": null
+        },
+        {
+          "id": "T116",
+          "name": "Team T116",
+          "player1uuid": "3DDGA",
+          "player2uuid": null
+        },
+        {
+          "id": "T117",
+          "name": "Team T117",
+          "player1uuid": "G9MN4",
+          "player2uuid": null
+        },
+        {
+          "id": "T118",
+          "name": "Team T118",
+          "player1uuid": "N9NBF",
+          "player2uuid": null
+        },
+        {
+          "id": "T119",
+          "name": "Team T119",
+          "player1uuid": "L81GH",
+          "player2uuid": null
+        },
+        {
+          "id": "T120",
+          "name": "Team T120",
+          "player1uuid": "611JC",
+          "player2uuid": null
+        },
+        {
+          "id": "T121",
+          "name": "Team T121",
+          "player1uuid": "MUGLJ",
+          "player2uuid": null
+        },
+        {
+          "id": "T122",
+          "name": "Team T122",
+          "player1uuid": "X4OYO",
+          "player2uuid": null
+        },
+        {
+          "id": "T881",
+          "name": "Team T881",
+          "player1uuid": "NUUYD",
+          "player2uuid": null
+        },
+        {
+          "id": "T882",
+          "name": "Team T882",
+          "player1uuid": "RXZVY",
+          "player2uuid": null
+        },
+        {
+          "id": "T883",
+          "name": "Team T883",
+          "player1uuid": "U7SV6",
+          "player2uuid": null
+        },
+        {
+          "id": "T884",
+          "name": "Team T884",
+          "player1uuid": "MBBPX",
+          "player2uuid": null
+        },
+        {
+          "id": "T885",
+          "name": "Team T885",
+          "player1uuid": "D6D1H",
+          "player2uuid": null
+        },
+        {
+          "id": "T886",
+          "name": "Team T886",
+          "player1uuid": "D98GN",
+          "player2uuid": null
+        }
+      ]
+    },
+    {
+      "name": "Women's singles~Gurgaon~singles",
+      "rounds": [
+        {
+          "name": "Round robin ",
+          "id": "1",
+          "pools": [
+            {
+              "poolName": "A",
+              "matches": [
+                {
+                  "name": "Round 1 Pool A - Team T881 vs Team T882",
+                  "teamId1": "T881",
+                  "teamId2": "T882",
+                  "teamId1_score": 11,
+                  "teamId2_score": 5,
+                  "winnerTeamId": "T881",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 1 Pool A - Team T881 vs Team T883",
+                  "teamId1": "T881",
+                  "teamId2": "T883",
+                  "teamId1_score": 11,
+                  "teamId2_score": 5,
+                  "winnerTeamId": "T881",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 1 Pool A - Team T881 vs Team T884",
+                  "teamId1": "T881",
+                  "teamId2": "T884",
+                  "teamId1_score": 2,
+                  "teamId2_score": 11,
+                  "winnerTeamId": "T884",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 1 Pool A - Team T881 vs Team T885",
+                  "teamId1": "T881",
+                  "teamId2": "T885",
+                  "teamId1_score": 4,
+                  "teamId2_score": 11,
+                  "winnerTeamId": "T885",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 1 Pool A - Team T881 vs Team T886",
+                  "teamId1": "T881",
+                  "teamId2": "T886",
+                  "teamId1_score": 4,
+                  "teamId2_score": 11,
+                  "winnerTeamId": "T886",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 1 Pool A - Team T882 vs Team T883",
+                  "teamId1": "T882",
+                  "teamId2": "T883",
+                  "teamId1_score": 0,
+                  "teamId2_score": 11,
+                  "winnerTeamId": "T883",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 1 Pool A - Team T882 vs Team T884",
+                  "teamId1": "T882",
+                  "teamId2": "T884",
+                  "teamId1_score": 0,
+                  "teamId2_score": 11,
+                  "winnerTeamId": "T884",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 1 Pool A - Team T882 vs Team T885",
+                  "teamId1": "T882",
+                  "teamId2": "T885",
+                  "teamId1_score": 0,
+                  "teamId2_score": 11,
+                  "winnerTeamId": "T885",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 1 Pool A - Team T882 vs Team T886",
+                  "teamId1": "T882",
+                  "teamId2": "T886",
+                  "teamId1_score": 5,
+                  "teamId2_score": 11,
+                  "winnerTeamId": "T886",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 1 Pool A - Team T883 vs Team T884",
+                  "teamId1": "T883",
+                  "teamId2": "T884",
+                  "teamId1_score": 2,
+                  "teamId2_score": 11,
+                  "winnerTeamId": "T884",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 1 Pool A - Team T883 vs Team T885",
+                  "teamId1": "T883",
+                  "teamId2": "T885",
+                  "teamId1_score": 5,
+                  "teamId2_score": 11,
+                  "winnerTeamId": "T885",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 1 Pool A - Team T883 vs Team T886",
+                  "teamId1": "T883",
+                  "teamId2": "T886",
+                  "teamId1_score": 4,
+                  "teamId2_score": 11,
+                  "winnerTeamId": "T886",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 1 Pool A - Team T884 vs Team T885",
+                  "teamId1": "T884",
+                  "teamId2": "T885",
+                  "teamId1_score": 3,
+                  "teamId2_score": 11,
+                  "winnerTeamId": "T885",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 1 Pool A - Team T884 vs Team T886",
+                  "teamId1": "T884",
+                  "teamId2": "T886",
+                  "teamId1_score": 11,
+                  "teamId2_score": 9,
+                  "winnerTeamId": "T884",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 1 Pool A - Team T885 vs Team T886",
+                  "teamId1": "T885",
+                  "teamId2": "T886",
+                  "teamId1_score": 2,
+                  "teamId2_score": 11,
+                  "winnerTeamId": "T886",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Semi final 1",
+          "id": "3",
+          "pools": [
+            {
+              "poolName": "A",
+              "matches": [
+                {
+                  "name": "Round 3 - Team T886 vs Team T881",
+                  "teamId1": "T886",
+                  "teamId2": "T881",
+                  "teamId1_score": 11,
+                  "teamId2_score": 0,
+                  "winnerTeamId": "T886",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 3 - Team T884 vs Team T885",
+                  "teamId1": "T884",
+                  "teamId2": "T885",
+                  "teamId1_score": 11,
+                  "teamId2_score": 8,
+                  "winnerTeamId": "T884",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Final",
+          "id": "4",
+          "pools": [
+            {
+              "poolName": "A",
+              "matches": [
+                {
+                  "name": "Final - Team T886 vs Team T884",
+                  "teamId1": "T886",
+                  "teamId2": "T884",
+                  "teamId1_score": 11,
+                  "teamId2_score": 8,
+                  "winnerTeamId": "T886",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 4 - Team T881 vs Team T885",
+                  "teamId1": "T881",
+                  "teamId2": "T885",
+                  "teamId1_score": 4,
+                  "teamId2_score": 11,
+                  "winnerTeamId": "T885",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "teams": [
+        {
+          "id": "T089",
+          "name": "Team T089",
+          "player1uuid": "3U36S",
+          "player2uuid": null
+        },
+        {
+          "id": "T090",
+          "name": "Team T090",
+          "player1uuid": "PXPRU",
+          "player2uuid": null
+        },
+        {
+          "id": "T091",
+          "name": "Team T091",
+          "player1uuid": "EA3E5",
+          "player2uuid": null
+        },
+        {
+          "id": "T092",
+          "name": "Team T092",
+          "player1uuid": "3RWH9",
+          "player2uuid": null
+        },
+        {
+          "id": "T093",
+          "name": "Team T093",
+          "player1uuid": "BKBC9",
+          "player2uuid": null
+        },
+        {
+          "id": "T094",
+          "name": "Team T094",
+          "player1uuid": "MDFGV",
+          "player2uuid": null
+        },
+        {
+          "id": "T095",
+          "name": "Team T095",
+          "player1uuid": "D0YJR",
+          "player2uuid": null
+        },
+        {
+          "id": "T096",
+          "name": "Team T096",
+          "player1uuid": "7INJB",
+          "player2uuid": null
+        },
+        {
+          "id": "T097",
+          "name": "Team T097",
+          "player1uuid": "K6TRH",
+          "player2uuid": null
+        },
+        {
+          "id": "T098",
+          "name": "Team T098",
+          "player1uuid": "VQ97R",
+          "player2uuid": null
+        },
+        {
+          "id": "T099",
+          "name": "Team T099",
+          "player1uuid": "173JJ",
+          "player2uuid": null
+        },
+        {
+          "id": "T100",
+          "name": "Team T100",
+          "player1uuid": "H955U",
+          "player2uuid": null
+        },
+        {
+          "id": "T101",
+          "name": "Team T101",
+          "player1uuid": "W2TO3",
+          "player2uuid": null
+        },
+        {
+          "id": "T102",
+          "name": "Team T102",
+          "player1uuid": "4VKDY",
+          "player2uuid": null
+        },
+        {
+          "id": "T103",
+          "name": "Team T103",
+          "player1uuid": "1HRXD",
+          "player2uuid": null
+        },
+        {
+          "id": "T104",
+          "name": "Team T104",
+          "player1uuid": "SMQ9R",
+          "player2uuid": null
+        },
+        {
+          "id": "T105",
+          "name": "Team T105",
+          "player1uuid": "9RQVE",
+          "player2uuid": null
+        },
+        {
+          "id": "T106",
+          "name": "Team T106",
+          "player1uuid": "UI746",
+          "player2uuid": null
+        },
+        {
+          "id": "T107",
+          "name": "Team T107",
+          "player1uuid": "DU0WV",
+          "player2uuid": null
+        },
+        {
+          "id": "T108",
+          "name": "Team T108",
+          "player1uuid": "4MYMU",
+          "player2uuid": null
+        },
+        {
+          "id": "T109",
+          "name": "Team T109",
+          "player1uuid": "BOIIN",
+          "player2uuid": null
+        },
+        {
+          "id": "T110",
+          "name": "Team T110",
+          "player1uuid": "X235Z",
+          "player2uuid": null
+        },
+        {
+          "id": "T111",
+          "name": "Team T111",
+          "player1uuid": "AVBX2",
+          "player2uuid": null
+        },
+        {
+          "id": "T112",
+          "name": "Team T112",
+          "player1uuid": "K5N8U",
+          "player2uuid": null
+        },
+        {
+          "id": "T113",
+          "name": "Team T113",
+          "player1uuid": "FW5UG",
+          "player2uuid": null
+        },
+        {
+          "id": "T114",
+          "name": "Team T114",
+          "player1uuid": "51KT0",
+          "player2uuid": null
+        },
+        {
+          "id": "T115",
+          "name": "Team T115",
+          "player1uuid": "YBFCD",
+          "player2uuid": null
+        },
+        {
+          "id": "T116",
+          "name": "Team T116",
+          "player1uuid": "3DDGA",
+          "player2uuid": null
+        },
+        {
+          "id": "T117",
+          "name": "Team T117",
+          "player1uuid": "G9MN4",
+          "player2uuid": null
+        },
+        {
+          "id": "T118",
+          "name": "Team T118",
+          "player1uuid": "N9NBF",
+          "player2uuid": null
+        },
+        {
+          "id": "T119",
+          "name": "Team T119",
+          "player1uuid": "L81GH",
+          "player2uuid": null
+        },
+        {
+          "id": "T120",
+          "name": "Team T120",
+          "player1uuid": "611JC",
+          "player2uuid": null
+        },
+        {
+          "id": "T121",
+          "name": "Team T121",
+          "player1uuid": "MUGLJ",
+          "player2uuid": null
+        },
+        {
+          "id": "T122",
+          "name": "Team T122",
+          "player1uuid": "X4OYO",
+          "player2uuid": null
+        },
+        {
+          "id": "T881",
+          "name": "Team T881",
+          "player1uuid": "NUUYD",
+          "player2uuid": null
+        },
+        {
+          "id": "T882",
+          "name": "Team T882",
+          "player1uuid": "RXZVY",
+          "player2uuid": null
+        },
+        {
+          "id": "T883",
+          "name": "Team T883",
+          "player1uuid": "U7SV6",
+          "player2uuid": null
+        },
+        {
+          "id": "T884",
+          "name": "Team T884",
+          "player1uuid": "MBBPX",
+          "player2uuid": null
+        },
+        {
+          "id": "T885",
+          "name": "Team T885",
+          "player1uuid": "D6D1H",
+          "player2uuid": null
+        },
+        {
+          "id": "T886",
+          "name": "Team T886",
+          "player1uuid": "D98GN",
+          "player2uuid": null
+        }
+      ]
+    }
+  ],
+  "players": [
+    {
+      "uuid": "1HRXD",
+      "firstName": "Angad",
+      "lastName": "Musafir",
+      "gender": "male",
+      "age": 0,
+      "phoneNo": "9818299919",
+      "email": "angad.musafir@example.com",
+      "skill": "INTERMEDIATE",
+      "duprId": "V4NJ7J"
+    },
+    {
+      "uuid": "K6TRH",
+      "firstName": "Aadittya",
+      "lastName": "Chhabra",
+      "gender": "male",
+      "age": 0,
+      "phoneNo": "8800244781",
+      "email": "aadittya.chhabra@example.com",
+      "skill": "INTERMEDIATE",
+      "duprId": "ZDDR7Q"
+    },
+    {
+      "uuid": "3DDGA",
+      "firstName": "Dhiraj",
+      "lastName": "Muttreja",
+      "gender": "Not Specif",
+      "age": 0,
+      "phoneNo": "28",
+      "email": "dhiraj.muttreja@example.com",
+      "skill": "INTERMEDIATE",
+      "duprId": "56QQQL"
+    },
+    {
+      "uuid": "RXZVY",
+      "firstName": "Neha",
+      "lastName": "",
+      "gender": "Not Specif",
+      "age": 0,
+      "phoneNo": "8447131025",
+      "email": "neha.@example.com",
+      "skill": "INTERMEDIATE",
+      "duprId": ""
+    },
+    {
+      "uuid": "N9NBF",
+      "firstName": "Nitin",
+      "lastName": "",
+      "gender": "Not Specif",
+      "age": 0,
+      "phoneNo": "30",
+      "email": "nitin.@example.com",
+      "skill": "INTERMEDIATE",
+      "duprId": ""
+    },
+    {
+      "uuid": "L81GH",
+      "firstName": "Viraj",
+      "lastName": "Uberoi",
+      "gender": "Not Specif",
+      "age": 0,
+      "phoneNo": "31",
+      "email": "viraj.uberoi@example.com",
+      "skill": "INTERMEDIATE",
+      "duprId": "WKZGPL"
+    },
+    {
+      "uuid": "3U36S",
+      "firstName": "Tanay",
+      "lastName": "Yadav",
+      "gender": "male",
+      "age": 0,
+      "phoneNo": "",
+      "email": "",
+      "skill": "INTERMEDIATE",
+      "duprId": "N72GQW"
+    },
+    {
+      "uuid": "VQ97R",
+      "firstName": "Dhruv",
+      "lastName": "Vasisht",
+      "gender": "male",
+      "age": 0,
+      "phoneNo": "8968825278\u202c",
+      "email": "dhruv.vasisht@example.com",
+      "skill": "INTERMEDIATE",
+      "duprId": ""
+    },
+    {
+      "uuid": "H955U",
+      "firstName": "Dhruv",
+      "lastName": "Raheja",
+      "gender": "male",
+      "age": 0,
+      "phoneNo": "9811907190",
+      "email": "dhruv.raheja@example.com",
+      "skill": "INTERMEDIATE",
+      "duprId": "94DGVK"
+    },
+    {
+      "uuid": "173JJ",
+      "firstName": "Yugal",
+      "lastName": "Bansal",
+      "gender": "Not Specif",
+      "age": 0,
+      "phoneNo": "11",
+      "email": "yugal.bansal@example.com",
+      "skill": "INTERMEDIATE",
+      "duprId": "M2XERL"
+    },
+    {
+      "uuid": "4VKDY",
+      "firstName": "Shrey",
+      "lastName": "Aggarwal",
+      "gender": "Not Specif",
+      "age": 0,
+      "phoneNo": "8860023025",
+      "email": "shrey.aggarwal@example.com",
+      "skill": "INTERMEDIATE",
+      "duprId": ""
+    },
+    {
+      "uuid": "K5N8U",
+      "firstName": "Manresh",
+      "lastName": "Malhotra",
+      "gender": "Not Specif",
+      "age": 0,
+      "phoneNo": "98114065509",
+      "email": "manresh.malhotra@example.com",
+      "skill": "INTERMEDIATE",
+      "duprId": "IN46E6"
+    },
+    {
+      "uuid": "NUUYD",
+      "firstName": "Samika",
+      "lastName": "",
+      "gender": "Not Specif",
+      "age": 0,
+      "phoneNo": "9311016945",
+      "email": "samika.@example.com",
+      "skill": "INTERMEDIATE",
+      "duprId": "GO50XV"
+    },
+    {
+      "uuid": "U7SV6",
+      "firstName": "Richa",
+      "lastName": "",
+      "gender": "Not Specif",
+      "age": 0,
+      "phoneNo": "8596547835",
+      "email": "richa.@example.com",
+      "skill": "INTERMEDIATE",
+      "duprId": "L5J90J"
+    },
+    {
+      "uuid": "AVBX2",
+      "firstName": "Sahil",
+      "lastName": "Gupta",
+      "gender": "Not Specif",
+      "age": 0,
+      "phoneNo": "9971332444",
+      "email": "sahil.gupta@example.com",
+      "skill": "INTERMEDIATE",
+      "duprId": "YNJ7ED"
+    },
+    {
+      "uuid": "BOIIN",
+      "firstName": "Shailendra",
+      "lastName": "",
+      "gender": "Not Specif",
+      "age": 0,
+      "phoneNo": "9582376354",
+      "email": "shailendra.@example.com",
+      "skill": "INTERMEDIATE",
+      "duprId": "EW77JO"
+    },
+    {
+      "uuid": "MBBPX",
+      "firstName": "Rajshree",
+      "lastName": "",
+      "gender": "Not Specif",
+      "age": 0,
+      "phoneNo": "6462757595",
+      "email": "rajshree.@example.com",
+      "skill": "INTERMEDIATE",
+      "duprId": "V702N7"
+    },
+    {
+      "uuid": "G9MN4",
+      "firstName": "Jasminder",
+      "lastName": "Singh",
+      "gender": "Not Specif",
+      "age": 0,
+      "phoneNo": "29",
+      "email": "jasminder.singh@example.com",
+      "skill": "INTERMEDIATE",
+      "duprId": "L5L425"
+    },
+    {
+      "uuid": "MUGLJ",
+      "firstName": "Yatin",
+      "lastName": "Sirpaul",
+      "gender": "Not Specif",
+      "age": 0,
+      "phoneNo": "33",
+      "email": "yatin.sirpaul@example.com",
+      "skill": "INTERMEDIATE",
+      "duprId": "X2VR92"
+    },
+    {
+      "uuid": "MDFGV",
+      "firstName": "Rajat",
+      "lastName": "Bhargava",
+      "gender": "male",
+      "age": 0,
+      "phoneNo": "9873434821",
+      "email": "rajat.bhargava@example.com",
+      "skill": "INTERMEDIATE",
+      "duprId": "JJ7XOM"
+    },
+    {
+      "uuid": "D6D1H",
+      "firstName": "Shambhavi",
+      "lastName": "",
+      "gender": "Not Specif",
+      "age": 0,
+      "phoneNo": "7459013318",
+      "email": "shambhavi.@example.com",
+      "skill": "INTERMEDIATE",
+      "duprId": "7NDKRN"
+    },
+    {
+      "uuid": "UI746",
+      "firstName": "Ashray",
+      "lastName": "Bhasin",
+      "gender": "male",
+      "age": 0,
+      "phoneNo": "7406799829",
+      "email": "ashray.bhasin@example.com",
+      "skill": "INTERMEDIATE",
+      "duprId": "X297QX"
+    },
+    {
+      "uuid": "D98GN",
+      "firstName": "Sakshi",
+      "lastName": "",
+      "gender": "Not Specif",
+      "age": 0,
+      "phoneNo": "5256328688",
+      "email": "sakshi.@example.com",
+      "skill": "INTERMEDIATE",
+      "duprId": "DWXDOC"
+    },
+    {
+      "uuid": "FW5UG",
+      "firstName": "Anirudh",
+      "lastName": "",
+      "gender": "Not Specif",
+      "age": 0,
+      "phoneNo": "25",
+      "email": "anirudh.@example.com",
+      "skill": "INTERMEDIATE",
+      "duprId": "DN42E4"
+    },
+    {
+      "uuid": "X4OYO",
+      "firstName": "Ishan\u00a0Dhar",
+      "lastName": "",
+      "gender": "Not Specif",
+      "age": 0,
+      "phoneNo": "34",
+      "email": "ishan\u00a0dhar.@example.com",
+      "skill": "INTERMEDIATE",
+      "duprId": "WX246Q"
+    },
+    {
+      "uuid": "SMQ9R",
+      "firstName": "Ekagra",
+      "lastName": "Bhatia",
+      "gender": "male",
+      "age": 0,
+      "phoneNo": "9999884205",
+      "email": "ekagra.bhatia@example.com",
+      "skill": "INTERMEDIATE",
+      "duprId": ""
+    },
+    {
+      "uuid": "BKBC9",
+      "firstName": "Abhinay",
+      "lastName": "",
+      "gender": "Not Specif",
+      "age": 0,
+      "phoneNo": "9599776805",
+      "email": "abhinay.@example.com",
+      "skill": "INTERMEDIATE",
+      "duprId": "YXMX9G"
+    },
+    {
+      "uuid": "X235Z",
+      "firstName": "Yuvraj",
+      "lastName": "",
+      "gender": "Not Specif",
+      "age": 0,
+      "phoneNo": "9811114974",
+      "email": "yuvraj.@example.com",
+      "skill": "INTERMEDIATE",
+      "duprId": "ODQO5E "
+    },
+    {
+      "uuid": "W2TO3",
+      "firstName": "Ajay",
+      "lastName": "Tyagi",
+      "gender": "Not Specif",
+      "age": 0,
+      "phoneNo": "9868236163",
+      "email": "ajay.tyagi@example.com",
+      "skill": "INTERMEDIATE",
+      "duprId": ""
+    },
+    {
+      "uuid": "51KT0",
+      "firstName": "Aseem",
+      "lastName": "Agrawal",
+      "gender": "Not Specif",
+      "age": 0,
+      "phoneNo": "26",
+      "email": "aseem.agrawal@example.com",
+      "skill": "INTERMEDIATE",
+      "duprId": "XJVG94"
+    },
+    {
+      "uuid": "YBFCD",
+      "firstName": "Praveen",
+      "lastName": "",
+      "gender": "Not Specif",
+      "age": 0,
+      "phoneNo": "27",
+      "email": "praveen.@example.com",
+      "skill": "INTERMEDIATE",
+      "duprId": ""
+    },
+    {
+      "uuid": "9RQVE",
+      "firstName": "Kanwardeep",
+      "lastName": "Singh",
+      "gender": "male",
+      "age": 0,
+      "phoneNo": "9818814091",
+      "email": "kanwardeep.singh@example.com",
+      "skill": "INTERMEDIATE",
+      "duprId": "JJQOX4"
+    },
+    {
+      "uuid": "611JC",
+      "firstName": "Bikram",
+      "lastName": "",
+      "gender": "Not Specif",
+      "age": 0,
+      "phoneNo": "32",
+      "email": "bikram.@example.com",
+      "skill": "INTERMEDIATE",
+      "duprId": "EWZDNV"
+    },
+    {
+      "uuid": "D0YJR",
+      "firstName": "Sainyam",
+      "lastName": "Bhayana",
+      "gender": "Not Specif",
+      "age": 0,
+      "phoneNo": "9560599327",
+      "email": "sainyam.bhayana@example.com",
+      "skill": "INTERMEDIATE",
+      "duprId": ""
+    },
+    {
+      "uuid": "7INJB",
+      "firstName": "Aman",
+      "lastName": "Grover",
+      "gender": "male",
+      "age": 0,
+      "phoneNo": "8800091818",
+      "email": "aman.grover@example.com",
+      "skill": "INTERMEDIATE",
+      "duprId": "844MKG"
+    },
+    {
+      "uuid": "DU0WV",
+      "firstName": "Prateek",
+      "lastName": "",
+      "gender": "Not Specif",
+      "age": 0,
+      "phoneNo": "9999161613",
+      "email": "prateek.@example.com",
+      "skill": "INTERMEDIATE",
+      "duprId": ""
+    },
+    {
+      "uuid": "3RWH9",
+      "firstName": "Pankaj",
+      "lastName": "",
+      "gender": "male",
+      "age": 0,
+      "phoneNo": "9999010947",
+      "email": "pankaj.@example.com",
+      "skill": "INTERMEDIATE",
+      "duprId": "DNXLVL"
+    },
+    {
+      "uuid": "PXPRU",
+      "firstName": "Ashwin",
+      "lastName": "",
+      "gender": "male",
+      "age": 0,
+      "phoneNo": "9677050246",
+      "email": "",
+      "skill": "INTERMEDIATE",
+      "duprId": "4VQ6XG"
+    },
+    {
+      "uuid": "EA3E5",
+      "firstName": "Vaibhave",
+      "lastName": "Monga",
+      "gender": "Not Specif",
+      "age": 0,
+      "phoneNo": "9953325803",
+      "email": "vaibhave.monga@example.com",
+      "skill": "INTERMEDIATE",
+      "duprId": "DNEDN6"
+    },
+    {
+      "uuid": "4MYMU",
+      "firstName": "Shivangam",
+      "lastName": "",
+      "gender": "Not Specif",
+      "age": 0,
+      "phoneNo": "9582167989",
+      "email": "shivangam.@example.com",
+      "skill": "INTERMEDIATE",
+      "duprId": ""
+    }
+  ]
+}

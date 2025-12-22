@@ -1,0 +1,8 @@
+flask
+flask_sqlalchemy
+flask_cors
+mysqlclient
+python-dotenv
+flask-socketio
+gevent
+gevent-websocket

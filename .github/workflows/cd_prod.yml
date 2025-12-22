@@ -1,0 +1,26 @@
+name: Prod Deploy 
+on:
+  push:
+    branches:
+      - main 
+jobs:
+  prod_deploy:
+    runs-on: ubuntu-latest
+    steps:       
+    - name: Deploy using ssh
+      uses: appleboy/ssh-action@master
+      with:
+        host: ${{ secrets.PROD_IP }}
+        username: ${{ secrets.PROD_USERNAME }}
+        key: ${{ secrets.PROD_SSH_KEY }}
+        port: 22
+        script: |
+          cd ~/backend || exit 1
+          git reset --hard || exit 1
+          git config pull.rebase true || exit 1
+          git pull origin uat || exit 1
+          cp .env.dev .env || exit 1
+          pip3 install -r requirements.txt || exit 1
+          chmod +x start_app.sh || exit 1
+          ./start_app.sh || exit 1
+

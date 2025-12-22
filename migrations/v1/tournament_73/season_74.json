@@ -1,0 +1,1153 @@
+{
+  "name": "Battle Under Lights - Match Day 1",
+  "categories": [
+    {
+      "name": "Battle Under Lights~North Delhi~doubles",
+      "rounds": [
+        {
+          "name": "Round Robin",
+          "id": "1",
+          "pools": [
+            {
+              "poolName": "A",
+              "matches": [
+                {
+                  "name": "Round 1 Pool A - BLT_D1 vs BLT_D2",
+                  "teamId1": "BLT_D1_3",
+                  "teamId2": "BLT_D2_3",
+                  "teamId1_score": 8,
+                  "teamId2_score": 11,
+                  "winnerTeamId": "BLT_D2_3",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 1 Pool A - BLT_D1 vs BLT_D3",
+                  "teamId1": "BLT_D1_3",
+                  "teamId2": "BLT_D3_3",
+                  "teamId1_score": 10,
+                  "teamId2_score": 12,
+                  "winnerTeamId": "BLT_D3_3",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 1 Pool A - BLT_D1 vs BLT_D4",
+                  "teamId1": "BLT_D1_3",
+                  "teamId2": "BLT_D4_3",
+                  "teamId1_score": 11,
+                  "teamId2_score": 0,
+                  "winnerTeamId": "BLT_D1_3",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 1 Pool A - BLT_D2 vs BLT_D3",
+                  "teamId1": "BLT_D2_3",
+                  "teamId2": "BLT_D3_3",
+                  "teamId1_score": 11,
+                  "teamId2_score": 2,
+                  "winnerTeamId": "BLT_D2_3",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 1 Pool A - BLT_D2 vs BLT_D4",
+                  "teamId1": "BLT_D2_3",
+                  "teamId2": "BLT_D4_3",
+                  "teamId1_score": 11,
+                  "teamId2_score": 4,
+                  "winnerTeamId": "BLT_D2_3",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 1 Pool A - BLT_D3 vs BLT_D4",
+                  "teamId1": "BLT_D3_3",
+                  "teamId2": "BLT_D4_3",
+                  "teamId1_score": 11,
+                  "teamId2_score": 2,
+                  "winnerTeamId": "BLT_D3_3",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                }
+              ]
+            },
+            {
+              "poolName": "B",
+              "matches": [
+                {
+                  "name": "Round 1 Pool B - BLT_D5 vs BLT_D6",
+                  "teamId1": "BLT_D5_3",
+                  "teamId2": "BLT_D6_3",
+                  "teamId1_score": 2,
+                  "teamId2_score": 11,
+                  "winnerTeamId": "BLT_D6_3",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 1 Pool B - BLT_D5 vs BLT_D7",
+                  "teamId1": "BLT_D5_3",
+                  "teamId2": "BLT_D7_3",
+                  "teamId1_score": 2,
+                  "teamId2_score": 11,
+                  "winnerTeamId": "BLT_D7_3",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 1 Pool B - BLT_D5 vs BLT_D8",
+                  "teamId1": "BLT_D5_3",
+                  "teamId2": "BLT_D8_3",
+                  "teamId1_score": 11,
+                  "teamId2_score": 8,
+                  "winnerTeamId": "BLT_D5_3",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 1 Pool B - BLT_D6 vs BLT_D7",
+                  "teamId1": "BLT_D6_3",
+                  "teamId2": "BLT_D7_3",
+                  "teamId1_score": 11,
+                  "teamId2_score": 5,
+                  "winnerTeamId": "BLT_D6_3",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 1 Pool B - BLT_D6 vs BLT_D8",
+                  "teamId1": "BLT_D6_3",
+                  "teamId2": "BLT_D8_3",
+                  "teamId1_score": 11,
+                  "teamId2_score": 3,
+                  "winnerTeamId": "BLT_D6_3",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 1 Pool B - BLT_D7 vs BLT_D8",
+                  "teamId1": "BLT_D7_3",
+                  "teamId2": "BLT_D8_3",
+                  "teamId1_score": 11,
+                  "teamId2_score": 3,
+                  "winnerTeamId": "BLT_D7_3",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                }
+              ]
+            },
+            {
+              "poolName": "C",
+              "matches": [
+                {
+                  "name": "Round 1 Pool C - BLT_D9 vs BLT_D10",
+                  "teamId1": "BLT_D9_3",
+                  "teamId2": "BLT_D10_3",
+                  "teamId1_score": 11,
+                  "teamId2_score": 3,
+                  "winnerTeamId": "BLT_D9_3",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 1 Pool C - BLT_D9 vs BLT_D11",
+                  "teamId1": "BLT_D9_3",
+                  "teamId2": "BLT_D11_3",
+                  "teamId1_score": 11,
+                  "teamId2_score": 0,
+                  "winnerTeamId": "BLT_D9_3",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 1 Pool C - BLT_D9 vs BLT_D12",
+                  "teamId1": "BLT_D9_3",
+                  "teamId2": "BLT_D12_3",
+                  "teamId1_score": 11,
+                  "teamId2_score": 6,
+                  "winnerTeamId": "BLT_D9_3",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 1 Pool C - BLT_D10 vs BLT_D11",
+                  "teamId1": "BLT_D10_3",
+                  "teamId2": "BLT_D11_3",
+                  "teamId1_score": 11,
+                  "teamId2_score": 8,
+                  "winnerTeamId": "BLT_D10_3",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 1 Pool C - BLT_D10 vs BLT_D12",
+                  "teamId1": "BLT_D10_3",
+                  "teamId2": "BLT_D12_3",
+                  "teamId1_score": 3,
+                  "teamId2_score": 11,
+                  "winnerTeamId": "BLT_D12_3",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 1 Pool C - BLT_D11 vs BLT_D12",
+                  "teamId1": "BLT_D11_3",
+                  "teamId2": "BLT_D12_3",
+                  "teamId1_score": 6,
+                  "teamId2_score": 11,
+                  "winnerTeamId": "BLT_D12_3",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                }
+              ]
+            },
+            {
+              "poolName": "D",
+              "matches": [
+                {
+                  "name": "Round 1 Pool D - BLT_D13 vs BLT_D14",
+                  "teamId1": "BLT_D13_3",
+                  "teamId2": "BLT_D14_3",
+                  "teamId1_score": 11,
+                  "teamId2_score": 4,
+                  "winnerTeamId": "BLT_D13_3",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 1 Pool D - BLT_D13 vs BLT_D15",
+                  "teamId1": "BLT_D13_3",
+                  "teamId2": "BLT_D15_3",
+                  "teamId1_score": 9,
+                  "teamId2_score": 10,
+                  "winnerTeamId": "BLT_D15_3",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 1 Pool D - BLT_D13 vs BLT_D16",
+                  "teamId1": "BLT_D13_3",
+                  "teamId2": "BLT_D16_3",
+                  "teamId1_score": 11,
+                  "teamId2_score": 2,
+                  "winnerTeamId": "BLT_D13_3",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 1 Pool D - BLT_D14 vs BLT_D15",
+                  "teamId1": "BLT_D14_3",
+                  "teamId2": "BLT_D15_3",
+                  "teamId1_score": 2,
+                  "teamId2_score": 11,
+                  "winnerTeamId": "BLT_D15_3",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 1 Pool D - BLT_D14 vs BLT_D16",
+                  "teamId1": "BLT_D14_3",
+                  "teamId2": "BLT_D16_3",
+                  "teamId1_score": 11,
+                  "teamId2_score": 6,
+                  "winnerTeamId": "BLT_D14_3",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 1 Pool D - BLT_D15 vs BLT_D16",
+                  "teamId1": "BLT_D15_3",
+                  "teamId2": "BLT_D16_3",
+                  "teamId1_score": 11,
+                  "teamId2_score": 1,
+                  "winnerTeamId": "BLT_D15_3",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Quarter Finals",
+          "id": "3",
+          "pools": [
+            {
+              "poolName": "1",
+              "matches": [
+                {
+                  "name": "Round 3 - BLT_D2 vs BLT_D13",
+                  "teamId1": "BLT_D2_3",
+                  "teamId2": "BLT_D13_3",
+                  "teamId1_score": 11,
+                  "teamId2_score": 6,
+                  "winnerTeamId": "BLT_D2_3",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 3 - BLT_D6 vs BLT_D12",
+                  "teamId1": "BLT_D6_3",
+                  "teamId2": "BLT_D12_3",
+                  "teamId1_score": 11,
+                  "teamId2_score": 2,
+                  "winnerTeamId": "BLT_D6_3",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                }
+              ]
+            },
+            {
+              "poolName": "2",
+              "matches": [
+                {
+                  "name": "Round 3 - BLT_D7 vs BLT_D9",
+                  "teamId1": "BLT_D7_3",
+                  "teamId2": "BLT_D9_3",
+                  "teamId1_score": 9,
+                  "teamId2_score": 11,
+                  "winnerTeamId": "BLT_D9_3",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 3 - BLT_D3 vs BLT_D15",
+                  "teamId1": "BLT_D3_3",
+                  "teamId2": "BLT_D15_3",
+                  "teamId1_score": 5,
+                  "teamId2_score": 11,
+                  "winnerTeamId": "BLT_D15_3",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 3 - BLT_D3 vs BLT_D15",
+                  "teamId1": "BLT_D3_3",
+                  "teamId2": "BLT_D15_3",
+                  "teamId1_score": 5,
+                  "teamId2_score": 11,
+                  "winnerTeamId": "BLT_D15_3",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Semi Finals",
+          "id": "4",
+          "pools": [
+            {
+              "poolName": "1",
+              "matches": [
+                {
+                  "name": "Round 4 - BLT_D2 vs BLT_D6",
+                  "teamId1": "BLT_D2_3",
+                  "teamId2": "BLT_D6_3",
+                  "teamId1_score": 7,
+                  "teamId2_score": 11,
+                  "winnerTeamId": "BLT_D6_3",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                }
+              ]
+            },
+            {
+              "poolName": "2",
+              "matches": [
+                {
+                  "name": "Round 4 - BLT_D9 vs BLT_D15",
+                  "teamId1": "BLT_D9_3",
+                  "teamId2": "BLT_D15_3",
+                  "teamId1_score": 9,
+                  "teamId2_score": 11,
+                  "winnerTeamId": "BLT_D15_3",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Finals",
+          "id": "5",
+          "pools": [
+            {
+              "poolName": "1",
+              "matches": [
+                {
+                  "name": "Round 5 - BLT_D6 vs BLT_D15",
+                  "teamId1": "BLT_D6_3",
+                  "teamId2": "BLT_D15_3",
+                  "teamId1_score": 14,
+                  "teamId2_score": 16,
+                  "winnerTeamId": "BLT_D15_3",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Third Place",
+          "id": "6",
+          "pools": [
+            {
+              "poolName": "1",
+              "matches": [
+                {
+                  "name": "Round 6 - BLT_D9 vs BLT_D2",
+                  "teamId1": "BLT_D9_3",
+                  "teamId2": "BLT_D2_3",
+                  "teamId1_score": 11,
+                  "teamId2_score": 2,
+                  "winnerTeamId": "BLT_D9_3",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "9-12 rankings",
+          "id": "7",
+          "pools": [
+            {
+              "poolName": "1",
+              "matches": [
+                {
+                  "name": "Round 7 - BLT_D10 vs BLT_D5",
+                  "teamId1": "BLT_D10_3",
+                  "teamId2": "BLT_D5_3",
+                  "teamId1_score": 11,
+                  "teamId2_score": 6,
+                  "winnerTeamId": "BLT_D10_3",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 7 - BLT_D14 vs BLT_D1",
+                  "teamId1": "BLT_D14_3",
+                  "teamId2": "BLT_D1_3",
+                  "teamId1_score": 11,
+                  "teamId2_score": 4,
+                  "winnerTeamId": "BLT_D14_3",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 7 - BLT_D10 vs BLT_D14",
+                  "teamId1": "BLT_D10_3",
+                  "teamId2": "BLT_D14_3",
+                  "teamId1_score": 11,
+                  "teamId2_score": 0,
+                  "winnerTeamId": "BLT_D10_3",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "teams": [
+        {
+          "id": "BLT_D1",
+          "name": "BLT_D1",
+          "player1uuid": "3ZCKI",
+          "player2uuid": "0A159"
+        },
+        {
+          "id": "BLT_D1_3",
+          "name": "BLT_D1",
+          "player1uuid": "3ZCKI",
+          "player2uuid": "0A159"
+        },
+        {
+          "id": "BLT_D10",
+          "name": "BLT_D10",
+          "player1uuid": "91357",
+          "player2uuid": "8M801"
+        },
+        {
+          "id": "BLT_D10_3",
+          "name": "BLT_D10",
+          "player1uuid": "91357",
+          "player2uuid": "8M801"
+        },
+        {
+          "id": "BLT_D11",
+          "name": "BLT_D11",
+          "player1uuid": "786Z2",
+          "player2uuid": "V18T3"
+        },
+        {
+          "id": "BLT_D11_3",
+          "name": "BLT_D11",
+          "player1uuid": "786Z2",
+          "player2uuid": "V18T3"
+        },
+        {
+          "id": "BLT_D12",
+          "name": "BLT_D12",
+          "player1uuid": "6CZIE",
+          "player2uuid": "PYFYA"
+        },
+        {
+          "id": "BLT_D12_3",
+          "name": "BLT_D12",
+          "player1uuid": "6CZIE",
+          "player2uuid": "PYFYA"
+        },
+        {
+          "id": "BLT_D13",
+          "name": "BLT_D13",
+          "player1uuid": "7IQTJ",
+          "player2uuid": "BEUOK"
+        },
+        {
+          "id": "BLT_D13_3",
+          "name": "BLT_D13",
+          "player1uuid": "7IQTJ",
+          "player2uuid": "BEUOK"
+        },
+        {
+          "id": "BLT_D14",
+          "name": "BLT_D14",
+          "player1uuid": "2GQ0M",
+          "player2uuid": "JPLM3"
+        },
+        {
+          "id": "BLT_D14_3",
+          "name": "BLT_D14",
+          "player1uuid": "2GQ0M",
+          "player2uuid": "JPLM3"
+        },
+        {
+          "id": "BLT_D15",
+          "name": "BLT_D15",
+          "player1uuid": "STGJ1",
+          "player2uuid": "AV887"
+        },
+        {
+          "id": "BLT_D15_3",
+          "name": "BLT_D15",
+          "player1uuid": "STGJ1",
+          "player2uuid": "AV887"
+        },
+        {
+          "id": "BLT_D16",
+          "name": "BLT_D16",
+          "player1uuid": "A25BU",
+          "player2uuid": "1A4HO"
+        },
+        {
+          "id": "BLT_D16_3",
+          "name": "BLT_D16",
+          "player1uuid": "A25BU",
+          "player2uuid": "1A4HO"
+        },
+        {
+          "id": "BLT_D2",
+          "name": "BLT_D2",
+          "player1uuid": "L6RZG",
+          "player2uuid": "N4DB3"
+        },
+        {
+          "id": "BLT_D2_3",
+          "name": "BLT_D2",
+          "player1uuid": "L6RZG",
+          "player2uuid": "N4DB3"
+        },
+        {
+          "id": "BLT_D3",
+          "name": "BLT_D3",
+          "player1uuid": "Y6S2Q",
+          "player2uuid": "C242Q"
+        },
+        {
+          "id": "BLT_D3_3",
+          "name": "BLT_D3",
+          "player1uuid": "Y6S2Q",
+          "player2uuid": "C242Q"
+        },
+        {
+          "id": "BLT_D4",
+          "name": "BLT_D4",
+          "player1uuid": "7JT51",
+          "player2uuid": "5CYF3"
+        },
+        {
+          "id": "BLT_D4_3",
+          "name": "BLT_D4",
+          "player1uuid": "7JT51",
+          "player2uuid": "5CYF3"
+        },
+        {
+          "id": "BLT_D5",
+          "name": "BLT_D5",
+          "player1uuid": "J774P",
+          "player2uuid": "TJYWD"
+        },
+        {
+          "id": "BLT_D5_3",
+          "name": "BLT_D5",
+          "player1uuid": "J774P",
+          "player2uuid": "TJYWD"
+        },
+        {
+          "id": "BLT_D6",
+          "name": "BLT_D6",
+          "player1uuid": "V18RW",
+          "player2uuid": "V0357"
+        },
+        {
+          "id": "BLT_D6_3",
+          "name": "BLT_D6",
+          "player1uuid": "V18RW",
+          "player2uuid": "V0357"
+        },
+        {
+          "id": "BLT_D7",
+          "name": "BLT_D7",
+          "player1uuid": "YTWRS",
+          "player2uuid": "CUXRS"
+        },
+        {
+          "id": "BLT_D7_3",
+          "name": "BLT_D7",
+          "player1uuid": "YTWRS",
+          "player2uuid": "CUXRS"
+        },
+        {
+          "id": "BLT_D8",
+          "name": "BLT_D8",
+          "player1uuid": "HQZER",
+          "player2uuid": "D6HOO"
+        },
+        {
+          "id": "BLT_D8_3",
+          "name": "BLT_D8",
+          "player1uuid": "HQZER",
+          "player2uuid": "D6HOO"
+        },
+        {
+          "id": "BLT_D9",
+          "name": "BLT_D9",
+          "player1uuid": "DC8XO",
+          "player2uuid": "0TR2Q"
+        },
+        {
+          "id": "BLT_D9_3",
+          "name": "BLT_D9",
+          "player1uuid": "DC8XO",
+          "player2uuid": "0TR2Q"
+        }
+      ]
+    }
+  ],
+  "players": [
+    {
+      "uuid": "STGJ1",
+      "firstName": "Parveen",
+      "lastName": "",
+      "gender": "unknown",
+      "age": 0,
+      "phoneNo": "temp_STGJ1",
+      "email": "unknown@example.com",
+      "skill": "intermediate",
+      "duprId": null
+    },
+    {
+      "uuid": "7IQTJ",
+      "firstName": "Rakesh",
+      "lastName": "Bansal",
+      "gender": "unknown",
+      "age": 0,
+      "phoneNo": "temp_7IQTJ",
+      "email": "unknown@example.com",
+      "skill": "intermediate",
+      "duprId": null
+    },
+    {
+      "uuid": "DC8XO",
+      "firstName": "Shaurya",
+      "lastName": "Joon",
+      "gender": "unknown",
+      "age": 0,
+      "phoneNo": "temp_DC8XO",
+      "email": "unknown@example.com",
+      "skill": "intermediate",
+      "duprId": null
+    },
+    {
+      "uuid": "3ZCKI",
+      "firstName": "Ketan",
+      "lastName": "Goel",
+      "gender": "unknown",
+      "age": 0,
+      "phoneNo": "temp_3ZCKI",
+      "email": "unknown@example.com",
+      "skill": "intermediate",
+      "duprId": null
+    },
+    {
+      "uuid": "PYFYA",
+      "firstName": "Anmol",
+      "lastName": "Narang",
+      "gender": "unknown",
+      "age": 0,
+      "phoneNo": "temp_PYFYA",
+      "email": "unknown@example.com",
+      "skill": "intermediate",
+      "duprId": null
+    },
+    {
+      "uuid": "2GQ0M",
+      "firstName": "Sachit",
+      "lastName": "Jain",
+      "gender": "unknown",
+      "age": 0,
+      "phoneNo": "temp_2GQ0M",
+      "email": "unknown@example.com",
+      "skill": "intermediate",
+      "duprId": null
+    },
+    {
+      "uuid": "J774P",
+      "firstName": "Aseem",
+      "lastName": "Aggarwal",
+      "gender": "unknown",
+      "age": 0,
+      "phoneNo": "temp_J774P",
+      "email": "unknown@example.com",
+      "skill": "intermediate",
+      "duprId": null
+    },
+    {
+      "uuid": "BEUOK",
+      "firstName": "Vikram",
+      "lastName": "Sehgal",
+      "gender": "unknown",
+      "age": 0,
+      "phoneNo": "temp_BEUOK",
+      "email": "unknown@example.com",
+      "skill": "intermediate",
+      "duprId": null
+    },
+    {
+      "uuid": "Y6S2Q",
+      "firstName": "Puneet",
+      "lastName": "Rai",
+      "gender": "unknown",
+      "age": 0,
+      "phoneNo": "temp_Y6S2Q",
+      "email": "unknown@example.com",
+      "skill": "intermediate",
+      "duprId": null
+    },
+    {
+      "uuid": "D6HOO",
+      "firstName": "Chinmay",
+      "lastName": "",
+      "gender": "unknown",
+      "age": 0,
+      "phoneNo": "temp_D6HOO",
+      "email": "unknown@example.com",
+      "skill": "intermediate",
+      "duprId": null
+    },
+    {
+      "uuid": "V18RW",
+      "firstName": "Pritam",
+      "lastName": "",
+      "gender": "unknown",
+      "age": 0,
+      "phoneNo": "temp_V18RW",
+      "email": "unknown@example.com",
+      "skill": "intermediate",
+      "duprId": null
+    },
+    {
+      "uuid": "786Z2",
+      "firstName": "Neelmani",
+      "lastName": "Bhareja",
+      "gender": "unknown",
+      "age": 0,
+      "phoneNo": "temp_786Z2",
+      "email": "unknown@example.com",
+      "skill": "intermediate",
+      "duprId": null
+    },
+    {
+      "uuid": "YTWRS",
+      "firstName": "Anand",
+      "lastName": "",
+      "gender": "unknown",
+      "age": 0,
+      "phoneNo": "temp_YTWRS",
+      "email": "unknown@example.com",
+      "skill": "intermediate",
+      "duprId": null
+    },
+    {
+      "uuid": "6CZIE",
+      "firstName": "Manav",
+      "lastName": "Gupta",
+      "gender": "unknown",
+      "age": 0,
+      "phoneNo": "temp_6CZIE",
+      "email": "unknown@example.com",
+      "skill": "intermediate",
+      "duprId": null
+    },
+    {
+      "uuid": "5CYF3",
+      "firstName": "Aadesh",
+      "lastName": "Jain",
+      "gender": "unknown",
+      "age": 0,
+      "phoneNo": "temp_5CYF3",
+      "email": "unknown@example.com",
+      "skill": "intermediate",
+      "duprId": null
+    },
+    {
+      "uuid": "7JT51",
+      "firstName": "Saksham",
+      "lastName": "Verma",
+      "gender": "unknown",
+      "age": 0,
+      "phoneNo": "temp_7JT51",
+      "email": "unknown@example.com",
+      "skill": "intermediate",
+      "duprId": null
+    },
+    {
+      "uuid": "V0357",
+      "firstName": "Bharat",
+      "lastName": "Bhushan",
+      "gender": "unknown",
+      "age": 0,
+      "phoneNo": "temp_V0357",
+      "email": "unknown@example.com",
+      "skill": "intermediate",
+      "duprId": null
+    },
+    {
+      "uuid": "0TR2Q",
+      "firstName": "Kanishk",
+      "lastName": "Pal",
+      "gender": "unknown",
+      "age": 0,
+      "phoneNo": "temp_0TR2Q",
+      "email": "unknown@example.com",
+      "skill": "intermediate",
+      "duprId": null
+    },
+    {
+      "uuid": "TJYWD",
+      "firstName": "Mukund",
+      "lastName": "Rao",
+      "gender": "unknown",
+      "age": 0,
+      "phoneNo": "temp_TJYWD",
+      "email": "unknown@example.com",
+      "skill": "intermediate",
+      "duprId": null
+    },
+    {
+      "uuid": "HQZER",
+      "firstName": "Bhavya",
+      "lastName": "",
+      "gender": "unknown",
+      "age": 0,
+      "phoneNo": "temp_HQZER",
+      "email": "unknown@example.com",
+      "skill": "intermediate",
+      "duprId": null
+    },
+    {
+      "uuid": "1A4HO",
+      "firstName": "Dhruv",
+      "lastName": "",
+      "gender": "unknown",
+      "age": 0,
+      "phoneNo": "temp_1A4HO",
+      "email": "unknown@example.com",
+      "skill": "intermediate",
+      "duprId": null
+    },
+    {
+      "uuid": "C242Q",
+      "firstName": "Sudhanshu",
+      "lastName": "Rai",
+      "gender": "unknown",
+      "age": 0,
+      "phoneNo": "temp_C242Q",
+      "email": "unknown@example.com",
+      "skill": "intermediate",
+      "duprId": null
+    },
+    {
+      "uuid": "L6RZG",
+      "firstName": "Vansh",
+      "lastName": "",
+      "gender": "unknown",
+      "age": 0,
+      "phoneNo": "temp_L6RZG",
+      "email": "unknown@example.com",
+      "skill": "intermediate",
+      "duprId": null
+    },
+    {
+      "uuid": "AV887",
+      "firstName": "Deepak",
+      "lastName": "",
+      "gender": "unknown",
+      "age": 0,
+      "phoneNo": "temp_AV887",
+      "email": "unknown@example.com",
+      "skill": "intermediate",
+      "duprId": null
+    },
+    {
+      "uuid": "8M801",
+      "firstName": "Prabhjot",
+      "lastName": "",
+      "gender": "unknown",
+      "age": 0,
+      "phoneNo": "temp_8M801",
+      "email": "unknown@example.com",
+      "skill": "intermediate",
+      "duprId": null
+    },
+    {
+      "uuid": "A25BU",
+      "firstName": "Vanshaj",
+      "lastName": "",
+      "gender": "unknown",
+      "age": 0,
+      "phoneNo": "temp_A25BU",
+      "email": "unknown@example.com",
+      "skill": "intermediate",
+      "duprId": null
+    },
+    {
+      "uuid": "JPLM3",
+      "firstName": "Siddharth",
+      "lastName": "Luthra",
+      "gender": "unknown",
+      "age": 0,
+      "phoneNo": "temp_JPLM3",
+      "email": "unknown@example.com",
+      "skill": "intermediate",
+      "duprId": null
+    },
+    {
+      "uuid": "91357",
+      "firstName": "Rajat",
+      "lastName": "Bhargava",
+      "gender": "unknown",
+      "age": 0,
+      "phoneNo": "temp_91357",
+      "email": "unknown@example.com",
+      "skill": "intermediate",
+      "duprId": null
+    },
+    {
+      "uuid": "CUXRS",
+      "firstName": "Aditya",
+      "lastName": "Rawat",
+      "gender": "unknown",
+      "age": 0,
+      "phoneNo": "temp_CUXRS",
+      "email": "unknown@example.com",
+      "skill": "intermediate",
+      "duprId": null
+    },
+    {
+      "uuid": "N4DB3",
+      "firstName": "Gautam",
+      "lastName": "",
+      "gender": "unknown",
+      "age": 0,
+      "phoneNo": "temp_N4DB3",
+      "email": "unknown@example.com",
+      "skill": "intermediate",
+      "duprId": null
+    },
+    {
+      "uuid": "0A159",
+      "firstName": "Rahul",
+      "lastName": "",
+      "gender": "unknown",
+      "age": 0,
+      "phoneNo": "temp_0A159",
+      "email": "unknown@example.com",
+      "skill": "intermediate",
+      "duprId": null
+    },
+    {
+      "uuid": "V18T3",
+      "firstName": "Rishab",
+      "lastName": "",
+      "gender": "unknown",
+      "age": 0,
+      "phoneNo": "temp_V18T3",
+      "email": "unknown@example.com",
+      "skill": "intermediate",
+      "duprId": null
+    }
+  ]
+}

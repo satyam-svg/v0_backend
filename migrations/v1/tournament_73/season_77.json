@@ -1,0 +1,1948 @@
+{
+  "name": "Battle Under Lights - Match Day 4",
+  "categories": [
+    {
+      "name": "Battle Under Lights, Pickleball Singles Tournament Ed - 2~Noida~singles",
+      "rounds": [
+        {
+          "name": null,
+          "id": "1",
+          "pools": [
+            {
+              "poolName": "A",
+              "matches": [
+                {
+                  "name": "Round 1 Pool A - BULS_M1 vs BULS_M2",
+                  "teamId1": "BULS_M1_34",
+                  "teamId2": "BULS_M2_34",
+                  "teamId1_score": 11,
+                  "teamId2_score": 4,
+                  "winnerTeamId": "BULS_M1_34",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 1 Pool A - BULS_M1 vs BULS_M3",
+                  "teamId1": "BULS_M1_34",
+                  "teamId2": "BULS_M3_34",
+                  "teamId1_score": 11,
+                  "teamId2_score": 8,
+                  "winnerTeamId": "BULS_M1_34",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 1 Pool A - BULS_M1 vs BULS_M4",
+                  "teamId1": "BULS_M1_34",
+                  "teamId2": "BULS_M4_34",
+                  "teamId1_score": 11,
+                  "teamId2_score": 7,
+                  "winnerTeamId": "BULS_M1_34",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 1 Pool A - BULS_M2 vs BULS_M3",
+                  "teamId1": "BULS_M2_34",
+                  "teamId2": "BULS_M3_34",
+                  "teamId1_score": 11,
+                  "teamId2_score": 6,
+                  "winnerTeamId": "BULS_M2_34",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 1 Pool A - BULS_M2 vs BULS_M4",
+                  "teamId1": "BULS_M2_34",
+                  "teamId2": "BULS_M4_34",
+                  "teamId1_score": 6,
+                  "teamId2_score": 11,
+                  "winnerTeamId": "BULS_M4_34",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 1 Pool A - BULS_M3 vs BULS_M4",
+                  "teamId1": "BULS_M3_34",
+                  "teamId2": "BULS_M4_34",
+                  "teamId1_score": 5,
+                  "teamId2_score": 11,
+                  "winnerTeamId": "BULS_M4_34",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                }
+              ]
+            },
+            {
+              "poolName": "B",
+              "matches": [
+                {
+                  "name": "Round 1 Pool B - BULS_M5 vs BULS_M6",
+                  "teamId1": "BULS_M5_34",
+                  "teamId2": "BULS_M6_34",
+                  "teamId1_score": 11,
+                  "teamId2_score": 4,
+                  "winnerTeamId": "BULS_M5_34",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 1 Pool B - BULS_M5 vs BULS_M7",
+                  "teamId1": "BULS_M5_34",
+                  "teamId2": "BULS_M7_34",
+                  "teamId1_score": 11,
+                  "teamId2_score": 3,
+                  "winnerTeamId": "BULS_M5_34",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 1 Pool B - BULS_M5 vs BULS_M8",
+                  "teamId1": "BULS_M5_34",
+                  "teamId2": "BULS_M8_34",
+                  "teamId1_score": 11,
+                  "teamId2_score": 7,
+                  "winnerTeamId": "BULS_M5_34",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 1 Pool B - BULS_M6 vs BULS_M7",
+                  "teamId1": "BULS_M6_34",
+                  "teamId2": "BULS_M7_34",
+                  "teamId1_score": 11,
+                  "teamId2_score": 3,
+                  "winnerTeamId": "BULS_M6_34",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 1 Pool B - BULS_M6 vs BULS_M8",
+                  "teamId1": "BULS_M6_34",
+                  "teamId2": "BULS_M8_34",
+                  "teamId1_score": 11,
+                  "teamId2_score": 0,
+                  "winnerTeamId": "BULS_M6_34",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 1 Pool B - BULS_M7 vs BULS_M8",
+                  "teamId1": "BULS_M7_34",
+                  "teamId2": "BULS_M8_34",
+                  "teamId1_score": 11,
+                  "teamId2_score": 2,
+                  "winnerTeamId": "BULS_M7_34",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                }
+              ]
+            },
+            {
+              "poolName": "C",
+              "matches": [
+                {
+                  "name": "Round 1 Pool C - BULS_M9 vs BULS_M10",
+                  "teamId1": "BULS_M9_34",
+                  "teamId2": "BULS_M10_34",
+                  "teamId1_score": 11,
+                  "teamId2_score": 4,
+                  "winnerTeamId": "BULS_M9_34",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 1 Pool C - BULS_M9 vs BULS_M11",
+                  "teamId1": "BULS_M9_34",
+                  "teamId2": "BULS_M11_34",
+                  "teamId1_score": 11,
+                  "teamId2_score": 0,
+                  "winnerTeamId": "BULS_M9_34",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 1 Pool C - BULS_M9 vs BULS_M12",
+                  "teamId1": "BULS_M9_34",
+                  "teamId2": "BULS_M12_34",
+                  "teamId1_score": 11,
+                  "teamId2_score": 8,
+                  "winnerTeamId": "BULS_M9_34",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 1 Pool C - BULS_M10 vs BULS_M11",
+                  "teamId1": "BULS_M10_34",
+                  "teamId2": "BULS_M11_34",
+                  "teamId1_score": 11,
+                  "teamId2_score": 3,
+                  "winnerTeamId": "BULS_M10_34",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 1 Pool C - BULS_M10 vs BULS_M12",
+                  "teamId1": "BULS_M10_34",
+                  "teamId2": "BULS_M12_34",
+                  "teamId1_score": 11,
+                  "teamId2_score": 3,
+                  "winnerTeamId": "BULS_M10_34",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 1 Pool C - BULS_M11 vs BULS_M12",
+                  "teamId1": "BULS_M11_34",
+                  "teamId2": "BULS_M12_34",
+                  "teamId1_score": 11,
+                  "teamId2_score": 2,
+                  "winnerTeamId": "BULS_M11_34",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                }
+              ]
+            },
+            {
+              "poolName": "D",
+              "matches": [
+                {
+                  "name": "Round 1 Pool D - BULS_M13 vs BULS_M14",
+                  "teamId1": "BULS_M13_34",
+                  "teamId2": "BULS_M14_34",
+                  "teamId1_score": 2,
+                  "teamId2_score": 11,
+                  "winnerTeamId": "BULS_M14_34",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 1 Pool D - BULS_M13 vs BULS_M15",
+                  "teamId1": "BULS_M13_34",
+                  "teamId2": "BULS_M15_34",
+                  "teamId1_score": 11,
+                  "teamId2_score": 0,
+                  "winnerTeamId": "BULS_M13_34",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 1 Pool D - BULS_M13 vs BULS_M16",
+                  "teamId1": "BULS_M13_34",
+                  "teamId2": "BULS_M16_34",
+                  "teamId1_score": 11,
+                  "teamId2_score": 4,
+                  "winnerTeamId": "BULS_M13_34",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 1 Pool D - BULS_M14 vs BULS_M15",
+                  "teamId1": "BULS_M14_34",
+                  "teamId2": "BULS_M15_34",
+                  "teamId1_score": 11,
+                  "teamId2_score": 4,
+                  "winnerTeamId": "BULS_M14_34",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 1 Pool D - BULS_M14 vs BULS_M16",
+                  "teamId1": "BULS_M14_34",
+                  "teamId2": "BULS_M16_34",
+                  "teamId1_score": 11,
+                  "teamId2_score": 3,
+                  "winnerTeamId": "BULS_M14_34",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 1 Pool D - BULS_M15 vs BULS_M16",
+                  "teamId1": "BULS_M15_34",
+                  "teamId2": "BULS_M16_34",
+                  "teamId1_score": 11,
+                  "teamId2_score": 1,
+                  "winnerTeamId": "BULS_M15_34",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                }
+              ]
+            },
+            {
+              "poolName": "E",
+              "matches": [
+                {
+                  "name": "Round 1 Pool E - BULS_M17 vs BULS_M18",
+                  "teamId1": "BULS_M17_34",
+                  "teamId2": "BULS_M18_34",
+                  "teamId1_score": 11,
+                  "teamId2_score": 7,
+                  "winnerTeamId": "BULS_M17_34",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 1 Pool E - BULS_M17 vs BULS_M19",
+                  "teamId1": "BULS_M17_34",
+                  "teamId2": "BULS_M19_34",
+                  "teamId1_score": 11,
+                  "teamId2_score": 1,
+                  "winnerTeamId": "BULS_M17_34",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 1 Pool E - BULS_M17 vs BULS_M20",
+                  "teamId1": "BULS_M17_34",
+                  "teamId2": "BULS_M20_34",
+                  "teamId1_score": 11,
+                  "teamId2_score": 1,
+                  "winnerTeamId": "BULS_M17_34",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 1 Pool E - BULS_M18 vs BULS_M19",
+                  "teamId1": "BULS_M18_34",
+                  "teamId2": "BULS_M19_34",
+                  "teamId1_score": 7,
+                  "teamId2_score": 11,
+                  "winnerTeamId": "BULS_M19_34",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 1 Pool E - BULS_M18 vs BULS_M20",
+                  "teamId1": "BULS_M18_34",
+                  "teamId2": "BULS_M20_34",
+                  "teamId1_score": 11,
+                  "teamId2_score": 2,
+                  "winnerTeamId": "BULS_M18_34",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 1 Pool E - BULS_M19 vs BULS_M20",
+                  "teamId1": "BULS_M19_34",
+                  "teamId2": "BULS_M20_34",
+                  "teamId1_score": 11,
+                  "teamId2_score": 6,
+                  "winnerTeamId": "BULS_M19_34",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                }
+              ]
+            },
+            {
+              "poolName": "F",
+              "matches": [
+                {
+                  "name": "Round 1 Pool F - BULS_M21 vs BULS_M22",
+                  "teamId1": "BULS_M21_34",
+                  "teamId2": "BULS_M22_34",
+                  "teamId1_score": 11,
+                  "teamId2_score": 3,
+                  "winnerTeamId": "BULS_M21_34",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 1 Pool F - BULS_M21 vs BULS_M23",
+                  "teamId1": "BULS_M21_34",
+                  "teamId2": "BULS_M23_34",
+                  "teamId1_score": 11,
+                  "teamId2_score": 8,
+                  "winnerTeamId": "BULS_M21_34",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 1 Pool F - BULS_M21 vs BULS_M24",
+                  "teamId1": "BULS_M21_34",
+                  "teamId2": "BULS_M24_34",
+                  "teamId1_score": 11,
+                  "teamId2_score": 0,
+                  "winnerTeamId": "BULS_M21_34",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 1 Pool F - BULS_M22 vs BULS_M23",
+                  "teamId1": "BULS_M22_34",
+                  "teamId2": "BULS_M23_34",
+                  "teamId1_score": 11,
+                  "teamId2_score": 5,
+                  "winnerTeamId": "BULS_M22_34",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 1 Pool F - BULS_M22 vs BULS_M24",
+                  "teamId1": "BULS_M22_34",
+                  "teamId2": "BULS_M24_34",
+                  "teamId1_score": 11,
+                  "teamId2_score": 1,
+                  "winnerTeamId": "BULS_M22_34",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 1 Pool F - BULS_M23 vs BULS_M24",
+                  "teamId1": "BULS_M23_34",
+                  "teamId2": "BULS_M24_34",
+                  "teamId1_score": 11,
+                  "teamId2_score": 0,
+                  "winnerTeamId": "BULS_M23_34",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Round of 16",
+          "id": "2",
+          "pools": [
+            {
+              "poolName": "1",
+              "matches": [
+                {
+                  "name": "Round 2 - BULS_M9 vs BULS_M2",
+                  "teamId1": "BULS_M9_34",
+                  "teamId2": "BULS_M2_34",
+                  "teamId1_score": 11,
+                  "teamId2_score": 1,
+                  "winnerTeamId": "BULS_M9_34",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                }
+              ]
+            },
+            {
+              "poolName": "2",
+              "matches": [
+                {
+                  "name": "Round 2 - BULS_M13 vs BULS_M4",
+                  "teamId1": "BULS_M13_34",
+                  "teamId2": "BULS_M4_34",
+                  "teamId1_score": 11,
+                  "teamId2_score": 3,
+                  "winnerTeamId": "BULS_M13_34",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                }
+              ]
+            },
+            {
+              "poolName": "3",
+              "matches": [
+                {
+                  "name": "Round 2 - BULS_M17 vs BULS_M22",
+                  "teamId1": "BULS_M17_34",
+                  "teamId2": "BULS_M22_34",
+                  "teamId1_score": 11,
+                  "teamId2_score": 3,
+                  "winnerTeamId": "BULS_M17_34",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                }
+              ]
+            },
+            {
+              "poolName": "4",
+              "matches": [
+                {
+                  "name": "Round 2 - BULS_M5 vs BULS_M23",
+                  "teamId1": "BULS_M5_34",
+                  "teamId2": "BULS_M23_34",
+                  "teamId1_score": 11,
+                  "teamId2_score": 5,
+                  "winnerTeamId": "BULS_M5_34",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                }
+              ]
+            },
+            {
+              "poolName": "5",
+              "matches": [
+                {
+                  "name": "Round 2 - BULS_M1 vs BULS_M7",
+                  "teamId1": "BULS_M1_34",
+                  "teamId2": "BULS_M7_34",
+                  "teamId1_score": 11,
+                  "teamId2_score": 6,
+                  "winnerTeamId": "BULS_M1_34",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                }
+              ]
+            },
+            {
+              "poolName": "6",
+              "matches": [
+                {
+                  "name": "Round 2 - BULS_M14 vs BULS_M18",
+                  "teamId1": "BULS_M14_34",
+                  "teamId2": "BULS_M18_34",
+                  "teamId1_score": 11,
+                  "teamId2_score": 3,
+                  "winnerTeamId": "BULS_M14_34",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                }
+              ]
+            },
+            {
+              "poolName": "7",
+              "matches": [
+                {
+                  "name": "Round 2 - BULS_M21 vs BULS_M19",
+                  "teamId1": "BULS_M21_34",
+                  "teamId2": "BULS_M19_34",
+                  "teamId1_score": 11,
+                  "teamId2_score": 1,
+                  "winnerTeamId": "BULS_M21_34",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                }
+              ]
+            },
+            {
+              "poolName": "8",
+              "matches": [
+                {
+                  "name": "Round 2 - BULS_M10 vs BULS_M6",
+                  "teamId1": "BULS_M10_34",
+                  "teamId2": "BULS_M6_34",
+                  "teamId1_score": 5,
+                  "teamId2_score": 11,
+                  "winnerTeamId": "BULS_M6_34",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Quarter Final",
+          "id": "3",
+          "pools": [
+            {
+              "poolName": "1",
+              "matches": [
+                {
+                  "name": "Round 3 - BULS_M9 vs BULS_M13",
+                  "teamId1": "BULS_M9_34",
+                  "teamId2": "BULS_M13_34",
+                  "teamId1_score": 11,
+                  "teamId2_score": 6,
+                  "winnerTeamId": "BULS_M9_34",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                }
+              ]
+            },
+            {
+              "poolName": "2",
+              "matches": [
+                {
+                  "name": "Round 3 - BULS_M17 vs BULS_M5",
+                  "teamId1": "BULS_M17_34",
+                  "teamId2": "BULS_M5_34",
+                  "teamId1_score": 11,
+                  "teamId2_score": 7,
+                  "winnerTeamId": "BULS_M17_34",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                }
+              ]
+            },
+            {
+              "poolName": "3",
+              "matches": [
+                {
+                  "name": "Round 3 - BULS_M1 vs BULS_M14",
+                  "teamId1": "BULS_M1_34",
+                  "teamId2": "BULS_M14_34",
+                  "teamId1_score": 11,
+                  "teamId2_score": 30,
+                  "winnerTeamId": "BULS_M14_34",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                }
+              ]
+            },
+            {
+              "poolName": "4",
+              "matches": [
+                {
+                  "name": "Round 3 - BULS_M21 vs BULS_M6",
+                  "teamId1": "BULS_M21_34",
+                  "teamId2": "BULS_M6_34",
+                  "teamId1_score": 11,
+                  "teamId2_score": 9,
+                  "winnerTeamId": "BULS_M21_34",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "9-12 standings",
+          "id": "6",
+          "pools": [
+            {
+              "poolName": "1",
+              "matches": [
+                {
+                  "name": "Round 6 - BULS_M19 vs BULS_M4",
+                  "teamId1": "BULS_M19_34",
+                  "teamId2": "BULS_M4_34",
+                  "teamId1_score": 11,
+                  "teamId2_score": 9,
+                  "winnerTeamId": "BULS_M19_34",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 6 - BULS_M10 vs BULS_M22",
+                  "teamId1": "BULS_M10_34",
+                  "teamId2": "BULS_M22_34",
+                  "teamId1_score": 11,
+                  "teamId2_score": 4,
+                  "winnerTeamId": "BULS_M10_34",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 6 - BULS_M19 vs BULS_M10",
+                  "teamId1": "BULS_M19_34",
+                  "teamId2": "BULS_M10_34",
+                  "teamId1_score": 1,
+                  "teamId2_score": 11,
+                  "winnerTeamId": "BULS_M10_34",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Semi Final",
+          "id": "4",
+          "pools": [
+            {
+              "poolName": "1",
+              "matches": [
+                {
+                  "name": "Round 4 - BULS_M9 vs BULS_M17",
+                  "teamId1": "BULS_M9_34",
+                  "teamId2": "BULS_M17_34",
+                  "teamId1_score": 2,
+                  "teamId2_score": 11,
+                  "winnerTeamId": "BULS_M17_34",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 4 - BULS_M21 vs BULS_M1",
+                  "teamId1": "BULS_M21_34",
+                  "teamId2": "BULS_M1_34",
+                  "teamId1_score": 11,
+                  "teamId2_score": 6,
+                  "winnerTeamId": "BULS_M21_34",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Semi Final",
+          "id": "5",
+          "pools": [
+            {
+              "poolName": "1",
+              "matches": [
+                {
+                  "name": "Round 5 - BULS_M17 vs BULS_M1",
+                  "teamId1": "BULS_M17_34",
+                  "teamId2": "BULS_M1_34",
+                  "teamId1_score": 5,
+                  "teamId2_score": 15,
+                  "winnerTeamId": "BULS_M1_34",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "3rd place",
+          "id": "7",
+          "pools": [
+            {
+              "poolName": "1",
+              "matches": [
+                {
+                  "name": "Round 7 - BULS_M9 vs BULS_M21",
+                  "teamId1": "BULS_M9_34",
+                  "teamId2": "BULS_M21_34",
+                  "teamId1_score": 11,
+                  "teamId2_score": 6,
+                  "winnerTeamId": "BULS_M9_34",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "teams": [
+        {
+          "id": "BULS_M1_34",
+          "name": "BULS_M1",
+          "player1uuid": "DB8WK",
+          "player2uuid": null
+        },
+        {
+          "id": "BULS_M10_34",
+          "name": "BULS_M10",
+          "player1uuid": "0GY6Q",
+          "player2uuid": null
+        },
+        {
+          "id": "BULS_M11_34",
+          "name": "BULS_M11",
+          "player1uuid": "W17OF",
+          "player2uuid": null
+        },
+        {
+          "id": "BULS_M12_34",
+          "name": "BULS_M12",
+          "player1uuid": "VU9HD",
+          "player2uuid": null
+        },
+        {
+          "id": "BULS_M13_34",
+          "name": "BULS_M13",
+          "player1uuid": "Q7M8Z",
+          "player2uuid": null
+        },
+        {
+          "id": "BULS_M14_34",
+          "name": "BULS_M14",
+          "player1uuid": "7F7FC",
+          "player2uuid": null
+        },
+        {
+          "id": "BULS_M15_34",
+          "name": "BULS_M15",
+          "player1uuid": "2W2DB",
+          "player2uuid": null
+        },
+        {
+          "id": "BULS_M16_34",
+          "name": "BULS_M16",
+          "player1uuid": "7T65W",
+          "player2uuid": null
+        },
+        {
+          "id": "BULS_M17_34",
+          "name": "BULS_M17",
+          "player1uuid": "2P0P6",
+          "player2uuid": null
+        },
+        {
+          "id": "BULS_M18_34",
+          "name": "BULS_M18",
+          "player1uuid": "SNJJS",
+          "player2uuid": null
+        },
+        {
+          "id": "BULS_M19_34",
+          "name": "BULS_M19",
+          "player1uuid": "2NTVM",
+          "player2uuid": null
+        },
+        {
+          "id": "BULS_M2_34",
+          "name": "BULS_M2",
+          "player1uuid": "N7T64",
+          "player2uuid": null
+        },
+        {
+          "id": "BULS_M20_34",
+          "name": "BULS_M20",
+          "player1uuid": "3WXN7",
+          "player2uuid": null
+        },
+        {
+          "id": "BULS_M21_34",
+          "name": "BULS_M21",
+          "player1uuid": "8VCW7",
+          "player2uuid": null
+        },
+        {
+          "id": "BULS_M22_34",
+          "name": "BULS_M22",
+          "player1uuid": "7UFBZ",
+          "player2uuid": null
+        },
+        {
+          "id": "BULS_M23_34",
+          "name": "BULS_M23",
+          "player1uuid": "XBH8F",
+          "player2uuid": null
+        },
+        {
+          "id": "BULS_M24_34",
+          "name": "BULS_M24",
+          "player1uuid": "IMBFV",
+          "player2uuid": null
+        },
+        {
+          "id": "BULS_M3_34",
+          "name": "BULS_M3",
+          "player1uuid": "CUXRS",
+          "player2uuid": null
+        },
+        {
+          "id": "BULS_M4_34",
+          "name": "BULS_M4",
+          "player1uuid": "J774P",
+          "player2uuid": null
+        },
+        {
+          "id": "BULS_M5_34",
+          "name": "BULS_M5",
+          "player1uuid": "Z26FC",
+          "player2uuid": null
+        },
+        {
+          "id": "BULS_M6_34",
+          "name": "BULS_M6",
+          "player1uuid": "91357",
+          "player2uuid": null
+        },
+        {
+          "id": "BULS_M7_34",
+          "name": "BULS_M7",
+          "player1uuid": "LOB93",
+          "player2uuid": null
+        },
+        {
+          "id": "BULS_M8_34",
+          "name": "BULS_M8",
+          "player1uuid": "8ADSI",
+          "player2uuid": null
+        },
+        {
+          "id": "BULS_M9_34",
+          "name": "BULS_M9",
+          "player1uuid": "YLV9F",
+          "player2uuid": null
+        },
+        {
+          "id": "BULS_F1_35",
+          "name": "BULS_F1",
+          "player1uuid": "RUPO2",
+          "player2uuid": null
+        },
+        {
+          "id": "BULS_F2_35",
+          "name": "BULS_F2",
+          "player1uuid": "KT1H0",
+          "player2uuid": null
+        },
+        {
+          "id": "BULS_F3_35",
+          "name": "BULS_F3",
+          "player1uuid": "DJ9F4",
+          "player2uuid": null
+        },
+        {
+          "id": "BULS_F4_35",
+          "name": "BULS_F4",
+          "player1uuid": "ZDKF7",
+          "player2uuid": null
+        },
+        {
+          "id": "BULS_F5_35",
+          "name": "BULS_F5",
+          "player1uuid": "HIS7D",
+          "player2uuid": null
+        },
+        {
+          "id": "BULS_F6_35",
+          "name": "BULS_F6",
+          "player1uuid": "YCLM4",
+          "player2uuid": null
+        }
+      ]
+    },
+    {
+      "name": "Battle Under Lights - S2 Womens Singles~Noida~singles",
+      "rounds": [
+        {
+          "name": null,
+          "id": "1",
+          "pools": [
+            {
+              "poolName": "A",
+              "matches": [
+                {
+                  "name": "Round 1 Pool A - BULS_F1 vs BULS_F2",
+                  "teamId1": "BULS_F1_35",
+                  "teamId2": "BULS_F2_35",
+                  "teamId1_score": 12,
+                  "teamId2_score": 10,
+                  "winnerTeamId": "BULS_F1_35",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 1 Pool A - BULS_F1 vs BULS_F3",
+                  "teamId1": "BULS_F1_35",
+                  "teamId2": "BULS_F3_35",
+                  "teamId1_score": 11,
+                  "teamId2_score": 9,
+                  "winnerTeamId": "BULS_F1_35",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 1 Pool A - BULS_F1 vs BULS_F4",
+                  "teamId1": "BULS_F1_35",
+                  "teamId2": "BULS_F4_35",
+                  "teamId1_score": 11,
+                  "teamId2_score": 9,
+                  "winnerTeamId": "BULS_F1_35",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 1 Pool A - BULS_F1 vs BULS_F5",
+                  "teamId1": "BULS_F1_35",
+                  "teamId2": "BULS_F5_35",
+                  "teamId1_score": 11,
+                  "teamId2_score": 0,
+                  "winnerTeamId": "BULS_F1_35",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 1 Pool A - BULS_F1 vs BULS_F6",
+                  "teamId1": "BULS_F1_35",
+                  "teamId2": "BULS_F6_35",
+                  "teamId1_score": 11,
+                  "teamId2_score": 2,
+                  "winnerTeamId": "BULS_F1_35",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 1 Pool A - BULS_F2 vs BULS_F3",
+                  "teamId1": "BULS_F2_35",
+                  "teamId2": "BULS_F3_35",
+                  "teamId1_score": 11,
+                  "teamId2_score": 7,
+                  "winnerTeamId": "BULS_F2_35",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 1 Pool A - BULS_F2 vs BULS_F4",
+                  "teamId1": "BULS_F2_35",
+                  "teamId2": "BULS_F4_35",
+                  "teamId1_score": 7,
+                  "teamId2_score": 11,
+                  "winnerTeamId": "BULS_F4_35",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 1 Pool A - BULS_F2 vs BULS_F5",
+                  "teamId1": "BULS_F2_35",
+                  "teamId2": "BULS_F5_35",
+                  "teamId1_score": 11,
+                  "teamId2_score": 0,
+                  "winnerTeamId": "BULS_F2_35",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 1 Pool A - BULS_F2 vs BULS_F6",
+                  "teamId1": "BULS_F2_35",
+                  "teamId2": "BULS_F6_35",
+                  "teamId1_score": 11,
+                  "teamId2_score": 0,
+                  "winnerTeamId": "BULS_F2_35",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 1 Pool A - BULS_F3 vs BULS_F4",
+                  "teamId1": "BULS_F3_35",
+                  "teamId2": "BULS_F4_35",
+                  "teamId1_score": 9,
+                  "teamId2_score": 11,
+                  "winnerTeamId": "BULS_F4_35",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 1 Pool A - BULS_F3 vs BULS_F5",
+                  "teamId1": "BULS_F3_35",
+                  "teamId2": "BULS_F5_35",
+                  "teamId1_score": 11,
+                  "teamId2_score": 4,
+                  "winnerTeamId": "BULS_F3_35",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 1 Pool A - BULS_F3 vs BULS_F6",
+                  "teamId1": "BULS_F3_35",
+                  "teamId2": "BULS_F6_35",
+                  "teamId1_score": 11,
+                  "teamId2_score": 1,
+                  "winnerTeamId": "BULS_F3_35",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 1 Pool A - BULS_F4 vs BULS_F5",
+                  "teamId1": "BULS_F4_35",
+                  "teamId2": "BULS_F5_35",
+                  "teamId1_score": 11,
+                  "teamId2_score": 2,
+                  "winnerTeamId": "BULS_F4_35",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 1 Pool A - BULS_F4 vs BULS_F6",
+                  "teamId1": "BULS_F4_35",
+                  "teamId2": "BULS_F6_35",
+                  "teamId1_score": 11,
+                  "teamId2_score": 6,
+                  "winnerTeamId": "BULS_F4_35",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                },
+                {
+                  "name": "Round 1 Pool A - BULS_F5 vs BULS_F6",
+                  "teamId1": "BULS_F5_35",
+                  "teamId2": "BULS_F6_35",
+                  "teamId1_score": 12,
+                  "teamId2_score": 10,
+                  "winnerTeamId": "BULS_F5_35",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Semi final",
+          "id": "2",
+          "pools": [
+            {
+              "poolName": "1",
+              "matches": [
+                {
+                  "name": "Round 2 - BULS_F1 vs BULS_F3",
+                  "teamId1": "BULS_F1_35",
+                  "teamId2": "BULS_F3_35",
+                  "teamId1_score": 11,
+                  "teamId2_score": 1,
+                  "winnerTeamId": "BULS_F1_35",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                }
+              ]
+            },
+            {
+              "poolName": "2",
+              "matches": [
+                {
+                  "name": "Round 2 - BULS_F2 vs BULS_F4",
+                  "teamId1": "BULS_F2_35",
+                  "teamId2": "BULS_F4_35",
+                  "teamId1_score": 7,
+                  "teamId2_score": 11,
+                  "winnerTeamId": "BULS_F4_35",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "3rd place",
+          "id": "5",
+          "pools": [
+            {
+              "poolName": "1",
+              "matches": [
+                {
+                  "name": "Round 5 - BULS_F3 vs BULS_F2",
+                  "teamId1": "BULS_F3_35",
+                  "teamId2": "BULS_F2_35",
+                  "teamId1_score": 5,
+                  "teamId2_score": 11,
+                  "winnerTeamId": "BULS_F2_35",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "4",
+          "id": "4",
+          "pools": [
+            {
+              "poolName": "1",
+              "matches": [
+                {
+                  "name": "Round 4 - BULS_F1 vs BULS_F4",
+                  "teamId1": "BULS_F1_35",
+                  "teamId2": "BULS_F4_35",
+                  "teamId1_score": 13,
+                  "teamId2_score": 11,
+                  "winnerTeamId": "BULS_F1_35",
+                  "isFinal": true,
+                  "status": "completed",
+                  "predecessor1": null,
+                  "predecessor2": null,
+                  "successor": null,
+                  "bracketPosition": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "teams": [
+        {
+          "id": "BULS_M1_34",
+          "name": "BULS_M1",
+          "player1uuid": "DB8WK",
+          "player2uuid": null
+        },
+        {
+          "id": "BULS_M10_34",
+          "name": "BULS_M10",
+          "player1uuid": "0GY6Q",
+          "player2uuid": null
+        },
+        {
+          "id": "BULS_M11_34",
+          "name": "BULS_M11",
+          "player1uuid": "W17OF",
+          "player2uuid": null
+        },
+        {
+          "id": "BULS_M12_34",
+          "name": "BULS_M12",
+          "player1uuid": "VU9HD",
+          "player2uuid": null
+        },
+        {
+          "id": "BULS_M13_34",
+          "name": "BULS_M13",
+          "player1uuid": "Q7M8Z",
+          "player2uuid": null
+        },
+        {
+          "id": "BULS_M14_34",
+          "name": "BULS_M14",
+          "player1uuid": "7F7FC",
+          "player2uuid": null
+        },
+        {
+          "id": "BULS_M15_34",
+          "name": "BULS_M15",
+          "player1uuid": "2W2DB",
+          "player2uuid": null
+        },
+        {
+          "id": "BULS_M16_34",
+          "name": "BULS_M16",
+          "player1uuid": "7T65W",
+          "player2uuid": null
+        },
+        {
+          "id": "BULS_M17_34",
+          "name": "BULS_M17",
+          "player1uuid": "2P0P6",
+          "player2uuid": null
+        },
+        {
+          "id": "BULS_M18_34",
+          "name": "BULS_M18",
+          "player1uuid": "SNJJS",
+          "player2uuid": null
+        },
+        {
+          "id": "BULS_M19_34",
+          "name": "BULS_M19",
+          "player1uuid": "2NTVM",
+          "player2uuid": null
+        },
+        {
+          "id": "BULS_M2_34",
+          "name": "BULS_M2",
+          "player1uuid": "N7T64",
+          "player2uuid": null
+        },
+        {
+          "id": "BULS_M20_34",
+          "name": "BULS_M20",
+          "player1uuid": "3WXN7",
+          "player2uuid": null
+        },
+        {
+          "id": "BULS_M21_34",
+          "name": "BULS_M21",
+          "player1uuid": "8VCW7",
+          "player2uuid": null
+        },
+        {
+          "id": "BULS_M22_34",
+          "name": "BULS_M22",
+          "player1uuid": "7UFBZ",
+          "player2uuid": null
+        },
+        {
+          "id": "BULS_M23_34",
+          "name": "BULS_M23",
+          "player1uuid": "XBH8F",
+          "player2uuid": null
+        },
+        {
+          "id": "BULS_M24_34",
+          "name": "BULS_M24",
+          "player1uuid": "IMBFV",
+          "player2uuid": null
+        },
+        {
+          "id": "BULS_M3_34",
+          "name": "BULS_M3",
+          "player1uuid": "CUXRS",
+          "player2uuid": null
+        },
+        {
+          "id": "BULS_M4_34",
+          "name": "BULS_M4",
+          "player1uuid": "J774P",
+          "player2uuid": null
+        },
+        {
+          "id": "BULS_M5_34",
+          "name": "BULS_M5",
+          "player1uuid": "Z26FC",
+          "player2uuid": null
+        },
+        {
+          "id": "BULS_M6_34",
+          "name": "BULS_M6",
+          "player1uuid": "91357",
+          "player2uuid": null
+        },
+        {
+          "id": "BULS_M7_34",
+          "name": "BULS_M7",
+          "player1uuid": "LOB93",
+          "player2uuid": null
+        },
+        {
+          "id": "BULS_M8_34",
+          "name": "BULS_M8",
+          "player1uuid": "8ADSI",
+          "player2uuid": null
+        },
+        {
+          "id": "BULS_M9_34",
+          "name": "BULS_M9",
+          "player1uuid": "YLV9F",
+          "player2uuid": null
+        },
+        {
+          "id": "BULS_F1_35",
+          "name": "BULS_F1",
+          "player1uuid": "RUPO2",
+          "player2uuid": null
+        },
+        {
+          "id": "BULS_F2_35",
+          "name": "BULS_F2",
+          "player1uuid": "KT1H0",
+          "player2uuid": null
+        },
+        {
+          "id": "BULS_F3_35",
+          "name": "BULS_F3",
+          "player1uuid": "DJ9F4",
+          "player2uuid": null
+        },
+        {
+          "id": "BULS_F4_35",
+          "name": "BULS_F4",
+          "player1uuid": "ZDKF7",
+          "player2uuid": null
+        },
+        {
+          "id": "BULS_F5_35",
+          "name": "BULS_F5",
+          "player1uuid": "HIS7D",
+          "player2uuid": null
+        },
+        {
+          "id": "BULS_F6_35",
+          "name": "BULS_F6",
+          "player1uuid": "YCLM4",
+          "player2uuid": null
+        }
+      ]
+    }
+  ],
+  "players": [
+    {
+      "uuid": "YLV9F",
+      "firstName": "Shailendra",
+      "lastName": "",
+      "gender": "unknown",
+      "age": 0,
+      "phoneNo": "temp_YLV9F",
+      "email": "unknown@example.com",
+      "skill": "intermediate",
+      "duprId": null
+    },
+    {
+      "uuid": "3WXN7",
+      "firstName": "Ashish",
+      "lastName": "Sharma",
+      "gender": "unknown",
+      "age": 0,
+      "phoneNo": "temp_3WXN7",
+      "email": "unknown@example.com",
+      "skill": "intermediate",
+      "duprId": null
+    },
+    {
+      "uuid": "SNJJS",
+      "firstName": "Abdias",
+      "lastName": "",
+      "gender": "unknown",
+      "age": 0,
+      "phoneNo": "temp_SNJJS",
+      "email": "unknown@example.com",
+      "skill": "intermediate",
+      "duprId": null
+    },
+    {
+      "uuid": "7F7FC",
+      "firstName": "Henson",
+      "lastName": "Henson",
+      "gender": "unknown",
+      "age": 0,
+      "phoneNo": "temp_7F7FC",
+      "email": "unknown@example.com",
+      "skill": "intermediate",
+      "duprId": null
+    },
+    {
+      "uuid": "J774P",
+      "firstName": "Aseem",
+      "lastName": "Aggarwal",
+      "gender": "unknown",
+      "age": 0,
+      "phoneNo": "temp_J774P",
+      "email": "unknown@example.com",
+      "skill": "intermediate",
+      "duprId": null
+    },
+    {
+      "uuid": "LOB93",
+      "firstName": "Vaibhave",
+      "lastName": "Monga",
+      "gender": "unknown",
+      "age": 0,
+      "phoneNo": "temp_LOB93",
+      "email": "unknown@example.com",
+      "skill": "intermediate",
+      "duprId": null
+    },
+    {
+      "uuid": "8VCW7",
+      "firstName": "Tarun",
+      "lastName": "",
+      "gender": "unknown",
+      "age": 0,
+      "phoneNo": "temp_8VCW7",
+      "email": "unknown@example.com",
+      "skill": "intermediate",
+      "duprId": null
+    },
+    {
+      "uuid": "8ADSI",
+      "firstName": "Vir",
+      "lastName": "",
+      "gender": "unknown",
+      "age": 0,
+      "phoneNo": "temp_8ADSI",
+      "email": "unknown@example.com",
+      "skill": "intermediate",
+      "duprId": null
+    },
+    {
+      "uuid": "DB8WK",
+      "firstName": "Angad",
+      "lastName": "Musafir",
+      "gender": "unknown",
+      "age": 0,
+      "phoneNo": "temp_DB8WK",
+      "email": "unknown@example.com",
+      "skill": "intermediate",
+      "duprId": null
+    },
+    {
+      "uuid": "0GY6Q",
+      "firstName": "Sumer",
+      "lastName": "",
+      "gender": "unknown",
+      "age": 0,
+      "phoneNo": "temp_0GY6Q",
+      "email": "unknown@example.com",
+      "skill": "intermediate",
+      "duprId": null
+    },
+    {
+      "uuid": "KT1H0",
+      "firstName": "Ananya",
+      "lastName": "",
+      "gender": "unknown",
+      "age": 0,
+      "phoneNo": "temp_KT1H0",
+      "email": "unknown@example.com",
+      "skill": "intermediate",
+      "duprId": null
+    },
+    {
+      "uuid": "VU9HD",
+      "firstName": "Shiekher",
+      "lastName": "",
+      "gender": "unknown",
+      "age": 0,
+      "phoneNo": "temp_VU9HD",
+      "email": "unknown@example.com",
+      "skill": "intermediate",
+      "duprId": null
+    },
+    {
+      "uuid": "Q7M8Z",
+      "firstName": "Aman",
+      "lastName": "Anand",
+      "gender": "unknown",
+      "age": 0,
+      "phoneNo": "temp_Q7M8Z",
+      "email": "unknown@example.com",
+      "skill": "intermediate",
+      "duprId": null
+    },
+    {
+      "uuid": "XBH8F",
+      "firstName": "Rohan",
+      "lastName": "Rohan",
+      "gender": "unknown",
+      "age": 0,
+      "phoneNo": "temp_XBH8F",
+      "email": "unknown@example.com",
+      "skill": "intermediate",
+      "duprId": null
+    },
+    {
+      "uuid": "2P0P6",
+      "firstName": "Nishaan",
+      "lastName": "Nishaan",
+      "gender": "unknown",
+      "age": 0,
+      "phoneNo": "temp_2P0P6",
+      "email": "unknown@example.com",
+      "skill": "intermediate",
+      "duprId": null
+    },
+    {
+      "uuid": "2W2DB",
+      "firstName": "Prem",
+      "lastName": "",
+      "gender": "unknown",
+      "age": 0,
+      "phoneNo": "temp_2W2DB",
+      "email": "unknown@example.com",
+      "skill": "intermediate",
+      "duprId": null
+    },
+    {
+      "uuid": "2NTVM",
+      "firstName": "Garvit",
+      "lastName": "",
+      "gender": "unknown",
+      "age": 0,
+      "phoneNo": "temp_2NTVM",
+      "email": "unknown@example.com",
+      "skill": "intermediate",
+      "duprId": null
+    },
+    {
+      "uuid": "YCLM4",
+      "firstName": "Jyoti",
+      "lastName": "Kandhari",
+      "gender": "unknown",
+      "age": 0,
+      "phoneNo": "temp_YCLM4",
+      "email": "unknown@example.com",
+      "skill": "intermediate",
+      "duprId": null
+    },
+    {
+      "uuid": "Z26FC",
+      "firstName": "Prabhat",
+      "lastName": "Vats",
+      "gender": "unknown",
+      "age": 0,
+      "phoneNo": "temp_Z26FC",
+      "email": "unknown@example.com",
+      "skill": "intermediate",
+      "duprId": null
+    },
+    {
+      "uuid": "RUPO2",
+      "firstName": "Sachika",
+      "lastName": "Ingale",
+      "gender": "unknown",
+      "age": 0,
+      "phoneNo": "temp_RUPO2",
+      "email": "unknown@example.com",
+      "skill": "intermediate",
+      "duprId": null
+    },
+    {
+      "uuid": "ZDKF7",
+      "firstName": "Divya",
+      "lastName": "",
+      "gender": "unknown",
+      "age": 0,
+      "phoneNo": "temp_ZDKF7",
+      "email": "unknown@example.com",
+      "skill": "intermediate",
+      "duprId": null
+    },
+    {
+      "uuid": "91357",
+      "firstName": "Rajat",
+      "lastName": "Bhargava",
+      "gender": "unknown",
+      "age": 0,
+      "phoneNo": "temp_91357",
+      "email": "unknown@example.com",
+      "skill": "intermediate",
+      "duprId": null
+    },
+    {
+      "uuid": "7T65W",
+      "firstName": "Shubham",
+      "lastName": "",
+      "gender": "unknown",
+      "age": 0,
+      "phoneNo": "temp_7T65W",
+      "email": "unknown@example.com",
+      "skill": "intermediate",
+      "duprId": null
+    },
+    {
+      "uuid": "W17OF",
+      "firstName": "Shiv",
+      "lastName": "",
+      "gender": "unknown",
+      "age": 0,
+      "phoneNo": "temp_W17OF",
+      "email": "unknown@example.com",
+      "skill": "intermediate",
+      "duprId": null
+    },
+    {
+      "uuid": "IMBFV",
+      "firstName": "Arjan",
+      "lastName": "Musafir",
+      "gender": "unknown",
+      "age": 0,
+      "phoneNo": "temp_IMBFV",
+      "email": "unknown@example.com",
+      "skill": "intermediate",
+      "duprId": null
+    },
+    {
+      "uuid": "HIS7D",
+      "firstName": "Nikita",
+      "lastName": "",
+      "gender": "unknown",
+      "age": 0,
+      "phoneNo": "temp_HIS7D",
+      "email": "unknown@example.com",
+      "skill": "",
+      "duprId": null
+    },
+    {
+      "uuid": "CUXRS",
+      "firstName": "Aditya",
+      "lastName": "Rawat",
+      "gender": "unknown",
+      "age": 0,
+      "phoneNo": "temp_CUXRS",
+      "email": "unknown@example.com",
+      "skill": "intermediate",
+      "duprId": null
+    },
+    {
+      "uuid": "7UFBZ",
+      "firstName": "Yatin",
+      "lastName": "Simarpaul",
+      "gender": "unknown",
+      "age": 0,
+      "phoneNo": "temp_7UFBZ",
+      "email": "unknown@example.com",
+      "skill": "intermediate",
+      "duprId": null
+    },
+    {
+      "uuid": "DJ9F4",
+      "firstName": "Parul",
+      "lastName": "",
+      "gender": "unknown",
+      "age": 0,
+      "phoneNo": "temp_DJ9F4",
+      "email": "unknown@example.com",
+      "skill": "intermediate",
+      "duprId": null
+    },
+    {
+      "uuid": "N7T64",
+      "firstName": "Amit",
+      "lastName": "",
+      "gender": "unknown",
+      "age": 0,
+      "phoneNo": "temp_N7T64",
+      "email": "unknown@example.com",
+      "skill": "intermediate",
+      "duprId": null
+    }
+  ]
+}
