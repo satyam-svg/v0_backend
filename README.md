@@ -4,6 +4,7 @@
 1. [How the current scoring mechanism works](#how-the-current-scoring-mechanism-works)
 2. [What changes you made and why](#what-changes-you-made-and-why)
 3. [Any schema or migration changes](#any-schema-or-migration-changes)
+4. [What you would improve if you had more time](#what-you-would-improve-if-you-had-more-time)
 
 ---
 
@@ -160,3 +161,45 @@ Once the database is populated with Teams and Pools, this script generates the a
 *   **New Tables**: `Player` table added to store detailed player info (UUID, DUPR ID, etc.).
 *   **Relationships**: `Team` table updated to link to `Player` via UUIDs (`player1_uuid`, `player2_uuid`).
 *   **Enums**: `SkillType` enum added to enforce consistency in player skill levels during import.
+
+---
+
+## What you would improve if you had more time
+
+### Optimization with Apache Kafka
+Currently, the system handles score updates and broadcasting in a synchronous manner within the Flask application. While this works for a single tournament, it creates a bottleneck under high load (e.g., thousands of concurrent viewers or multiple simultaneous tournaments).
+
+To scale this system, I would decouple the **Write** operations (Score Updates) from the **Read/Broadcast** operations using **Apache Kafka** as an event streaming platform.
+
+#### Proposed Architecture
+1.  **Producer (API Service)**: The Flask API receives the score update. Instead of writing to the DB and emitting to Socket.IO directly, it pushes a `ScoreUpdatedEvent` to a Kafka Topic (`tournament-scores`). This makes the API response extremely fast.
+2.  **Kafka Cluster**: Acts as the high-throughput message broker, buffering events and ensuring order.
+3.  **Consumer 1 (Persistence Service)**: Reads events from Kafka and updates the SQL Database. This ensures data integrity without slowing down the real-time flow.
+4.  **Consumer 2 (Broadcast Service)**: A dedicated Node.js or Python service that reads from Kafka and broadcasts to connected WebSocket clients. This service can be scaled horizontally to handle millions of connections.
+
+#### Schematic Diagram
+
+```mermaid
+graph TD
+    Client[Mobile App / Scorekeeper] -->|POST /update-score| API[Flask API Service]
+    
+    subgraph "Event Streaming Layer"
+    API -->|Publish Event| Kafka{Apache Kafka Topic: tournament-scores}
+    end
+    
+    subgraph "Consumer Services"
+    Kafka -->|Consume| DB_Worker[Persistence Worker]
+    Kafka -->|Consume| Socket_Svc[WebSocket Service]
+    end
+    
+    DB_Worker -->|Write| DB[(PostgreSQL DB)]
+    Socket_Svc -->|Emit 'score_update'| Viewers[Live Scoreboard Viewers]
+    
+    style Kafka fill:#f9f,stroke:#333,stroke-width:2px
+    style DB fill:#bbf,stroke:#333,stroke-width:2px
+```
+
+#### Benefits
+*   **High Throughput**: Kafka can handle millions of events per second, ensuring no lag during intense matches.
+*   **Fault Tolerance**: If the Database goes down, the API stays up. Events are buffered in Kafka and replayed once the DB is back online.
+*   **Scalability**: We can add more WebSocket servers dynamically to handle more viewers without touching the core scoring logic.
