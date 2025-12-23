@@ -38,7 +38,7 @@ socketio = init_socketio(app)
 
 @app.route('/')
 def index():
-    return "Hello, World!"
+    return "Welcome to khel club !!"
 
 if __name__ == '__main__':
     try:
