@@ -82,15 +82,43 @@ When a match is finalized:
 
 ## What changes you made and why
 
-### 1. Introduction of Enums in `models.py`
-**Change**: Added `MatchOutcome`, `MatchType`, and `SkillType` as Python Enum classes.
+### 1. Introduction of `MatchOutcome` Enum in `models.py`
+**Change**: Added the `MatchOutcome` Enum class to define standard outcomes.
+
+```python
+class MatchOutcome(str, Enum):
+    NORMAL = 'normal'
+    WALKOVER = 'walkover'
+    FORFEIT = 'forfeit'
+    BYE = 'bye'
+```
+
 **Why**: 
 *   **Data Integrity**: Using Enums prevents invalid strings (like "WalkOver" vs "walkover") from entering the database.
 *   **Code Readability**: It makes the code self-documenting. Instead of checking for magic strings like `'normal'`, we check `MatchOutcome.NORMAL`.
-*   **Scalability**: It's easier to add new types (e.g., a new `SkillType`) in one central place.
 
 ### 2. Implementation of Walkover Logic
 **Change**: Added specific handling for `outcome="walkover"` in the `update_score` function.
+
+```python
+if final:
+    match.is_final = True
+    
+    # Handle Walkover
+    outcome = data.get('outcome', 'normal')
+    match.outcome = outcome
+    
+    if outcome == 'walkover':
+        winner_team_id = data.get('winner_team_id')
+        if not winner_team_id:
+                return jsonify({'error': 'winner_team_id is required for walkover'}), 400
+        match.winner_team_id = winner_team_id
+        match.status = 'completed'
+        print(f"Match walkover with winner_team_id: {match.winner_team_id}")
+    else:
+        # ... normal scoring logic ...
+```
+
 **Why**:
 *   **Real-world Scenarios**: Tournaments often have no-shows. The system needed a way to advance a winner without requiring a played match score (e.g., 11-0 is not always accurate for a walkover).
 *   **Mechanism**:
