@@ -10,5 +10,8 @@ class Config:
     DB_NAME = environ.get('DB_NAME')
     DB_PORT = environ.get('DB_PORT', '3306')
     
-    SQLALCHEMY_DATABASE_URI = f'mysql://{DB_USER}:{DB_PASSWORD}@{DB_HOST}:{DB_PORT}/{DB_NAME}'
+    if DB_USER and DB_PASSWORD and DB_HOST and DB_NAME:
+        SQLALCHEMY_DATABASE_URI = f'mysql://{DB_USER}:{DB_PASSWORD}@{DB_HOST}:{DB_PORT}/{DB_NAME}'
+    else:
+        SQLALCHEMY_DATABASE_URI = 'sqlite:///v0_backend.db'
     SQLALCHEMY_TRACK_MODIFICATIONS = False

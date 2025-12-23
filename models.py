@@ -13,6 +13,12 @@ class SkillType(str, Enum):
     ADVANCED = 'advanced'
     PROFESSIONAL = 'professional'
 
+class MatchOutcome(str, Enum):
+    NORMAL = 'normal'
+    WALKOVER = 'walkover'
+    FORFEIT = 'forfeit'
+    BYE = 'bye'
+
 class SuperTournament(db.Model):
     __tablename__ = 'super_tournament'
     
@@ -41,12 +47,13 @@ class Tournament(db.Model):
     scores = db.relationship('Score', backref='tournament', lazy=True)
     rounds = db.relationship('Round', backref='tournament', lazy=True)
     num_courts = db.Column(db.Integer, default=1)
-    season_id = db.Column(db.Integer, db.ForeignKey('season.id'), nullable=False) #make it nullable
+    season_id = db.Column(db.Integer, db.ForeignKey('season.id'), nullable=False)
 
 class Team(db.Model):
     team_id = db.Column(db.String(50), primary_key=True, nullable=False)
     name = db.Column(db.String(100), nullable=False)
     points = db.Column(db.Integer, default=0)
+    pool = db.Column(db.String(20), nullable=True)
     checked_in = db.Column(db.Boolean, default=False)
     tournament_id = db.Column(db.Integer, db.ForeignKey('tournament.id'), nullable=False)
     player1_uuid = db.Column(db.String(36), db.ForeignKey('player.uuid'), nullable=True)
@@ -91,6 +98,7 @@ class Match(db.Model):
     court_number = db.Column(db.Integer)
     court_order = db.Column(db.Integer)
     status = db.Column(db.String(20), default='pending')
+    outcome = db.Column(db.String(20), default='normal')
     predecessor_1 = db.Column(db.Integer, db.ForeignKey('match.id'), nullable=True)
     predecessor_2 = db.Column(db.Integer, db.ForeignKey('match.id'), nullable=True)
     successor = db.Column(db.Integer, db.ForeignKey('match.id'), nullable=True)
@@ -112,4 +120,3 @@ class Round(db.Model):
     pool = db.Column(db.String(20), nullable=False)
     name = db.Column(db.String(100), nullable=True)
     tournament_id = db.Column(db.Integer, db.ForeignKey('tournament.id'), nullable=False)
-    name = db.Column(db.String(255))

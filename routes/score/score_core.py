@@ -113,14 +113,27 @@ def update_score():
         # Update match final status and winner if final is True
         if final:
             match.is_final = True
-            # Determine winner
-            if team1_score > team2_score:
-                match.winner_team_id = match.team1_id
-            elif team2_score > team1_score:
-                match.winner_team_id = match.team2_id
+            
+            # Handle Walkover
+            outcome = data.get('outcome', 'normal')
+            match.outcome = outcome
+            
+            if outcome == 'walkover':
+                winner_team_id = data.get('winner_team_id')
+                if not winner_team_id:
+                     return jsonify({'error': 'winner_team_id is required for walkover'}), 400
+                match.winner_team_id = winner_team_id
+                match.status = 'completed'
+                print(f"Match walkover with winner_team_id: {match.winner_team_id}")
             else:
-                match.winner_team_id = None  # Draw
-            print(f"Match finalized with winner_team_id: {match.winner_team_id}")
+                # Determine winner based on score
+                if team1_score > team2_score:
+                    match.winner_team_id = match.team1_id
+                elif team2_score > team1_score:
+                    match.winner_team_id = match.team2_id
+                else:
+                    match.winner_team_id = None  # Draw
+                print(f"Match finalized with winner_team_id: {match.winner_team_id}")
 
             if match.successor:
                 update_successor_match(match.successor, match.id, match.winner_team_id)
@@ -274,7 +287,8 @@ def get_match_score():
             },
             'status': match.status,
             'is_final': match.is_final,
-            'winner_team_id': match.winner_team_id
+            'winner_team_id': match.winner_team_id,
+            'outcome': match.outcome
         }
         
         return jsonify(response), 200
@@ -309,4 +323,4 @@ def get_scores():
         'score': score.score
     } for score in scores]
     
-    return jsonify(score_data), 200 
+    return jsonify(score_data), 200

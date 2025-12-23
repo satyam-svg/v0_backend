@@ -36,6 +36,10 @@ with app.app_context():
 initialize_routes(app)
 socketio = init_socketio(app)
 
+@app.route('/')
+def index():
+    return "Hello, World!"
+
 if __name__ == '__main__':
     try:
         print("Starting server with eventlet mode...")

@@ -169,7 +169,8 @@ def get_match_fixtures():
                 'match_status': {
                     'winner_team_id': match.winner_team_id,
                     'is_final': match.is_final,
-                    'status': match.status
+                    'status': match.status,
+                    'outcome': match.outcome
                 },
                 'bracket_info': {
                     'round_number': match.round_number,
@@ -295,4 +296,4 @@ def get_match_fixtures_csv():
         )
 
     except Exception as e:
-        return jsonify({'error': str(e)}), 500 
+        return jsonify({'error': str(e)}), 500
