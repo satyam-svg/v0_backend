@@ -3,6 +3,7 @@
 ## Table of Contents
 1. [How the current scoring mechanism works](#how-the-current-scoring-mechanism-works)
 2. [What changes you made and why](#what-changes-you-made-and-why)
+3. [Any schema or migration changes](#any-schema-or-migration-changes)
 
 ---
 
@@ -127,3 +128,35 @@ if final:
     *   We explicitly trust the `winner_team_id` sent by the client.
     *   We mark the match as `completed` and `outcome='walkover'`.
     *   Crucially, we still trigger `update_successor_match`, ensuring the bracket doesn't break and the winner moves to the next round automatically.
+
+---
+
+## Any schema or migration changes
+
+### Data Migration Pipeline
+We implemented a robust data migration pipeline to populate the database from CSV files. This ensures that we can easily reset and re-seed the database with consistent test data.
+
+#### 1. Source Data Files
+*   **`sample_pools.csv`**: Contains the mapping of Team IDs to Pools (e.g., `T001` -> `Pool A`).
+*   **`sample_teams.csv`**: Contains detailed information about teams and players (Name, Email, DUPR ID, Skill Level, etc.).
+
+#### 2. Initialization Script (`init_db.py`)
+This script acts as the primary ETL (Extract, Transform, Load) tool:
+1.  **Hierarchy Creation**: Automatically creates the root `SuperTournament`, `Season`, and `Tournament` entities if they don't exist.
+2.  **Pool Loading**: Reads `sample_pools.csv` into a dictionary for quick lookup.
+3.  **Team & Player Creation**:
+    *   Reads `sample_teams.csv`.
+    *   **Player Creation**: Generates a unique UUID for each player, validates their `SkillType` against the Enum, and saves them to the `Player` table.
+    *   **Team Creation**: Creates `Team` entries, linking them to the correct `Tournament` and assigning the `Pool` from the CSV data.
+    *   **Linking**: Associates the created Players with their respective Teams (`player1_uuid`, `player2_uuid`).
+
+#### 3. Match Generation (`generate_matches.py`)
+Once the database is populated with Teams and Pools, this script generates the actual match fixtures:
+1.  **Grouping**: Queries all teams and groups them by their assigned `Pool`.
+2.  **Round Robin Logic**: Uses `itertools.combinations` to create a Round Robin schedule (every team plays every other team in their pool).
+3.  **Match Creation**: Inserts `Match` records into the database with status `pending`, ready for scoring.
+
+### Summary of Changes
+*   **New Tables**: `Player` table added to store detailed player info (UUID, DUPR ID, etc.).
+*   **Relationships**: `Team` table updated to link to `Player` via UUIDs (`player1_uuid`, `player2_uuid`).
+*   **Enums**: `SkillType` enum added to enforce consistency in player skill levels during import.
