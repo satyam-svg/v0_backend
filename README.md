@@ -96,6 +96,7 @@ class MatchOutcome(str, Enum):
 **Why**: 
 *   **Data Integrity**: Using Enums prevents invalid strings (like "WalkOver" vs "walkover") from entering the database.
 *   **Code Readability**: It makes the code self-documenting. Instead of checking for magic strings like `'normal'`, we check `MatchOutcome.NORMAL`.
+*   **Future Extensibility**: If we need to add a new field (e.g., `RAIN_DELAY`), we simply add it to the Enum class. We don't need to hunt down and change string literals throughout the entire codebase, making updates safe and instant.
 
 ### 2. Implementation of Walkover Logic
 **Change**: Added specific handling for `outcome="walkover"` in the `update_score` function.
